@@ -1,0 +1,54 @@
+#### CREDITS FOR THE MOD 'ANACHRONIA - THE RISE OF IRENE' ####
+# More Bookmarks+ - Leviathonix - Base of the history, map, and bookmarks, required mod for this mod #
+# The Bronze Age: Maryannu - Owlcohoilic, Benjin, Svanley, and Sloth - Several cultures and their dynasties #
+# Bookmark Shieldmaidens & Dead Religions Revived - Zybbster - Several religions #
+# Faerun mod (for CK2) - a large dev team lead by Cernel Tenen, tsf4, and olrox17 - some name lists, notably for the high men culture #
+# Elder Scrolls Divines Religious Icons - GonDragon - icons for some of the Aniar'na religions #
+# the developers of Ave Maria - a script for converting counties with multiple baronies into single-barony counties #
+# kolibri8 on the Paradox Forums - a namelist for the Crimean Goths #
+# Asakhra on the Paradox Forums - a namelist for the Galatians, and one for the Isaurians #
+# Bloodmerchant on the Paradox Forums - a new namelist for the Kasogi/Circassians #
+# Traditional Tenets - fhqwhgads on Steam - several tenets (that mod is (mostly) integrated into this mod, with some changes to some tenets, WITH full permission of course) #
+# Baltic-Finnic Overhaul - joedeneed on Steam - new religions and cultures in the Baltic region (permission was given in general on the mod's page) #
+# Woody Man on Paradox Forums - some more names for the Suebi culture #
+
+ANACHRONIA - THE RISE OF IRENE is an early alpha release of a history conversion mod, created as the pet project of the sole dev Lindon, set in the geography of medieval Eurasia with a partly original cultural and religious setup. The basis of the mod is that the time god was killed in a war between the gods, leading to a complete breakdown of temporal reality, that was only stabilized in the 800s CE. The world, is thus, fractured - with many improbable things happening, many great kingdoms rising while other areas are completely shattered politically, and many faiths foreign to this world have arisen in the world of Anachronia due to the murder of the time god.
+
+Anachronia is designed to replace or change as few vanilla mechanics as possible, and aside from relying on the mod **More Bookmarks** for its bookmarks and map, can be run independent of any other mod. However, the mod, in its early alpha state, is continually unpolished, and will recieve regular updates to enhance the experience and subcreation.
+
+**Features**
+Currently Anachronia adds the following playable features:
+21 cultures in 7 new cultural groups - Ahezar'Ya, Akkadian, Hattian, High Taminarian, Hurrian, Sumerian, and Tavar're
+Many new tenets - Amaranth Path, Free Polytheism, Megha'rix'ta Traditions, Mercantilism, Pseudognostic, Pseudomonastic, Scholarship of Scripture, Spiritual Reality-Scripting, Taminarian Pacifism, Way of Aka, Way of All-Khan, Way of Azeroth, Way of Khandorit, Way of Megha, Way of Redshift, Way of the Ancients, Way of Xuliasi, Way of Yaikhivlana, Way of Ysara, Way of Zen, and Xenine Royalty and Grace
+2 new marriage doctrines - Valdemarian Polygamy and Free Love.
+1 new hostility doctrine for Taminarian religions and faiths
+Over 50 new faiths, including over 10 new religions
+Incomplete history for many provinces and empires.
+Free conversion to faiths and creation of faiths
+
+**Compatibility**
+As it is dependent on More Bookmarks+ by Leviathonix, and changes history heavily, the mod is incompatible with any mods that edit the map or history.
+This mod will also be incompatible with any mods that add or change tenets or doctrines, due to adding new tenets and doctrines. Additionally, due to modifying 00_defines, this mod likely won't be compatible with those that change these defines.
+
+**Requirements**
+This mod requires the lovely More Bookmarks+ mod made by Leviathonix, which is used as a base for mapping and history modification.
+To see spouses for people with the Valdemarian Polygamy or Free Love tenets in their religions, you need TT's Extension Panels.
+
+**Latest Update**
+The latest update, released on 2021/5/20, centers around the Pontic Empire and is SAVE INCOMPATIBLE. It divides the counties of the Pontic Empire into single barony counties, features new religions in Iberia, Crimea, and Anatolia, revamped historuy for the Kingdom of Pontus up to 1066, as well as some other, smaller fixes.
+
+Anachronia is made for version 1.3.* of CK3.
+
+
+
+
+
+
+
+
+**Update 2021/5/17**
+The latest update, released on 2021/5/17, adds two new Aniar'na faiths to the game, as well as a new Taminarian religion called Megha'rix'ta, based heavily on esoteric Elder Scrolls Lore. In addition, the kingdom of Kimek has been filled in with rulers in 867.
+
+
+**Update 2021/5/18**
+The latest update, released on 2021/5/18, adds many new faiths and religions to the game, with provinces, as well as a few small mechanics and a heresy event for the Taminarian faiths. Several new tenets, mostly but not exclusively Taminarian-exclusive, have also been added, as well as the High Tavar're culture.

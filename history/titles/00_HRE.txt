@@ -1,0 +1,30 @@
+e_germany = { # de jure k_switzerland # de jure k_austria controls # new k_luticy in the e_wendish_empire # follows aelonist aitahism
+	867.1.1 = {	change_development_level = 22 } # FIRST UNITING EMPRESS OF GERMANIA IS MAGDALENA VON BUERSKE IN 1120 BORN 1090 DIED 1178
+	1066.1.1 = { change_development_level = 44 }
+	1120.1.1 = {
+		holder = drsgermany0001
+	}
+}
+
+#### START SORBIA ####
+
+k_sorbia = {
+	866.1.1 = {
+		de_jure_liege = e_germany
+	}
+}
+d_anhalt = {
+	866.1.1 = {
+		de_jure_liege = k_sorbia
+	}
+}
+d_meissen = {
+	866.1.1 = {
+		de_jure_liege = k_sorbia
+	}
+}
+d_lausitz = {
+	866.1.1 = {
+		de_jure_liege = k_sorbia
+	}
+}
