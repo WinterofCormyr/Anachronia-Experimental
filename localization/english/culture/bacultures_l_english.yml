@@ -100,6 +100,7 @@
  cibyrrhaeotine:0 "Cibyrrhaeotine"
  neocimmerian:0 "Neocimmerian"
  kal_obish:0 "Kal'Obish"
+ pontic:0 "Pódii"
  
  neo_sumerian:0 "Neo-Sumerian"
  neo_sumerian_collective_noun:0 "Neo-Sumerians"
@@ -203,6 +204,7 @@
  cibyrrhaeotine_collective_noun:0 "Cibyrrhaeotines"
  neocimmerian_collective_noun:0 "Neocimmerians"
  kal_obish_collective_noun:0 "Kal'Obians"
+ pontic_collective_noun:0 "Pódii"
  
  #Groups
  aegean_group:0 "Aegean"

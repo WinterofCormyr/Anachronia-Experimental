@@ -39,7 +39,125 @@ pool_repopulate_prowess = {
 	random_traits = yes
 	gender_female_chance = root_soldier_female_chance
 	culture = root.culture
-	faith = root.faith
+	random_faith = {
+		faith:orthodox = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:pontic_aitahism = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:inner_pontic = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:anatolian_cybelite = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:high_galatian_faith = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:iesodeuonosism = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:cobela_arixideuoi = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:greek_galatian_faith = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:armenian_apostolic = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:nestorian = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:hurrian_pagan = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:zalwari_pagan = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:hattian_pagan = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:high_cybelite = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:lelegic_cybelite = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		faith:iliite_faith = {
+			trigger = {
+				root.capital_province = {
+					geographical_region = world_asia_minor
+				}
+			}
+		}
+		root.faith = {
+			trigger = {
+				always = yes
+			}
+		}
+	}
 	prowess = {
 		min_guest_template_skill max_guest_template_skill
 	}
