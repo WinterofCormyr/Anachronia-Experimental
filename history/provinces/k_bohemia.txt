@@ -166,7 +166,7 @@
 	religion = aelonist_aitahism
 	holding = tribal_holding
 	883.1.1 = {
-		religion = catholic
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -212,7 +212,7 @@
 ###c_olomouc
 4165 = {	#OLOMOUC
 	culture = slovien
-	religion = catholic
+	religion = slavonic_ireneism
 	holding = castle_holding
 	
 	1066.1.1 = {
@@ -233,7 +233,7 @@
 ###c_opava
 4184 = {	#OAPVA
 	culture = slovien
-	religion = catholic
+	religion = slavonic_ireneism
 	holding = castle_holding
 
 }
@@ -244,7 +244,7 @@
 ###c_prerov
 4182 = {	#PREROV
 	culture = slovien
-	religion = catholic
+	religion = slavonic_ireneism
 	holding = castle_holding
 	
 }
@@ -264,7 +264,7 @@
 ###c_brno
 4168 = {	#BRNO
 	culture = slovien
-	religion = catholic
+	religion = slavonic_ireneism
 	holding = castle_holding
 	
 }
@@ -278,7 +278,7 @@
 ###c_jihlava
 4162 = {	#JIHLAVA
 	culture = slovien
-	religion = catholic
+	religion = slavonic_ireneism
 	holding = castle_holding
 
 }
@@ -289,7 +289,7 @@
 ###c_znojmo
 4166 = {	#ZNOJMO
 	culture = slovien
-	religion = catholic
+	religion = slavonic_ireneism
 	holding = castle_holding
 	
 }

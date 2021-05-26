@@ -22,7 +22,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -39,7 +39,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -54,7 +54,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -71,7 +71,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -88,7 +88,7 @@
 	religion = slavic_pagan
 	#holding = castle_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 }
 5118 = {	#Baranovichi
@@ -101,7 +101,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -128,7 +128,7 @@
 		holding = castle_holding
 	}
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 }
 # 5123 - Lahoysk
@@ -147,7 +147,7 @@
 		holding = castle_holding
 	}
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 
 }
@@ -167,7 +167,7 @@
 		holding = castle_holding
 	}
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 }
 # 5124 - Zaslawye
@@ -186,7 +186,7 @@
 		holding = city_holding
 	}
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 }
 # 5124 - Zaslawye
@@ -205,7 +205,7 @@
 		holding = castle_holding
 	}
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 }
 5125 = {	#Maladzyechna
@@ -224,7 +224,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -245,7 +245,7 @@
 		holding = castle_holding
 	}
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 	1066.1.1 = {
 		buildings = {
@@ -271,7 +271,7 @@
 		holding = castle_holding
 	}
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 }
 5132 = {	#Vetrino
@@ -290,7 +290,7 @@
 		holding = castle_holding
 	}
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 }
 5135 = {	#Haradok
@@ -307,7 +307,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -331,7 +331,7 @@
 		holding = castle_holding
 	}
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 	}
 }
 5220 = {	#Yelnya
@@ -355,7 +355,7 @@
 	}
 	1040.1.1 = {religion = baltic_pagan}
 	1148.1.1 = {culture = russian
-			religion = orthodox}
+			religion = slavonic_ireneism}
 }
 ###c_gnezdovo
 5221 = {	#Gnezdovo
@@ -363,7 +363,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = city_holding
 	}
 }
@@ -375,7 +375,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -386,7 +386,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }
@@ -405,7 +405,7 @@
 
 	1040.1.1 = {religion = baltic_pagan}
 	1148.1.1 = {culture = russian
-			religion = orthodox}
+			religion = slavonic_ireneism}
 }
 5226 = {	#Lotoshino
 	holding = none
@@ -420,7 +420,7 @@
 	religion = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
-		religion = orthodox
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 }

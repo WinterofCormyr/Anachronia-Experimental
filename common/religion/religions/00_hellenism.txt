@@ -350,6 +350,10 @@
 			doctrine = doctrine_from_chaos
 			doctrine = doctrine_local_gods_accepted
 			doctrine = doctrine_other_faiths_gods_semi_integrated
+			doctrine = doctrine_angels_irrelevant
+			doctrine = doctrine_hellenic_high_god_zeus
+			doctrine = doctrine_hellenic_fall_of_olympus_none
+			doctrine = doctrine_nymphs_neutral_free
 			
 			doctrine = pagan_hostility_doctrine
 		}
@@ -541,6 +545,10 @@
 			doctrine = doctrine_from_chaos
 			doctrine = doctrine_local_gods_elevated
 			doctrine = doctrine_other_faiths_gods_accepted
+			doctrine = doctrine_angels_good_god_or_nongod
+			doctrine = doctrine_hellenic_high_god_adonis
+			doctrine = doctrine_hellenic_fall_of_olympus_cyclical
+			doctrine = doctrine_nymphs_good_free
 			
 			doctrine = pagan_hostility_doctrine
 		}
@@ -732,6 +740,10 @@
 			doctrine = doctrine_from_chaos
 			doctrine = doctrine_local_gods_integrated
 			doctrine = doctrine_other_faiths_gods_semi_integrated
+			doctrine = doctrine_angels_none
+			doctrine = doctrine_hellenic_high_god_cybele
+			doctrine = doctrine_hellenic_fall_of_olympus_traditional
+			doctrine = doctrine_nymphs_good_free
 			
 			doctrine = doctrine_gender_female_dominated # matriarchial
 			doctrine = doctrine_bastardry_none # Free love
@@ -911,6 +923,10 @@
 			doctrine = doctrine_from_chaos
 			doctrine = doctrine_local_gods_accepted
 			doctrine = doctrine_other_faiths_gods_ignored
+			doctrine = doctrine_angels_good_monotheistic
+			doctrine = doctrine_hellenic_high_god_eirene
+			doctrine = doctrine_hellenic_fall_of_olympus_traditional
+			doctrine = doctrine_nymphs_good_free
 			
 			doctrine = tenet_communal_identity
 			doctrine = tenet_pacifism
@@ -942,12 +958,16 @@
 			doctrine = doctrine_theogony_ex_nihilo_monotheism
 			doctrine = doctrine_local_gods_rejected
 			doctrine = doctrine_other_faiths_gods_ignored_monolatry
+			doctrine = doctrine_angels_good_monotheistic
+			doctrine = doctrine_hellenic_high_god_lady_irene_monotheistic
+			doctrine = doctrine_hellenic_fall_of_olympus_no_olympus
+			doctrine - doctrine_nymphs_none
 
             doctrine = tenet_pursuit_of_power
             doctrine = tenet_monasticism
 			doctrine = tenet_mendicant_preachers
         }
-		gallian_ireneism = { # France and Aquitaine
+		gallian_ireneism = { # France and Aquitaine # Empire of France rises 1013 # petty kings before then # once done with Aquitaine provinces revamp French namelists
             color = { 0.16 0.26 0.86 }
             icon = hellenic
 			
@@ -973,6 +993,10 @@
 			doctrine = doctrine_eternal_theogenesis
 			doctrine = doctrine_local_gods_accepted
 			doctrine = doctrine_other_faiths_gods_semi_integrated
+			doctrine = doctrine_angels_good_god_or_nongod
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_dionysiist
+			doctrine = doctrine_nymphs_good_free
 			
             doctrine = tenet_scholarship_of_scripture
             doctrine = tenet_monasticism
@@ -1004,6 +1028,10 @@
 			doctrine = doctrine_eternal_chaos
 			doctrine = doctrine_local_gods_ignored
 			doctrine = doctrine_other_faiths_gods_ignored_monolatry
+			doctrine = doctrine_angels_good_nongod
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_resurrectionist
+			doctrine = doctrine_nymphs_irrelevant
 
             doctrine = tenet_communal_identity
 			doctrine = tenet_scholarship_of_scripture
@@ -1035,6 +1063,10 @@
 			doctrine = doctrine_theogony_ex_nihilo_monotheism
 			doctrine = doctrine_local_gods_demonized
 			doctrine = doctrine_other_faiths_gods_rejected
+			doctrine = doctrine_angels_demonized
+			doctrine = doctrine_hellenic_high_god_lady_irene_monotheistic
+			doctrine = doctrine_hellenic_fall_of_olympus_no_olympus
+			doctrine = doctrine_nymphs_demonized
 			
             doctrine = tenet_reincarnation
 			doctrine = tenet_monasticism
@@ -1068,6 +1100,10 @@
 			doctrine = doctrine_from_chaos
 			doctrine = doctrine_local_gods_accepted
 			doctrine = doctrine_other_faiths_gods_ignored
+			doctrine = doctrine_angels_neutral_god_or_nongod
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_dionysiist
+			doctrine = doctrine_nymphs_neutral_any
 
             doctrine = tenet_gnosticism
             doctrine = tenet_religious_legal_pronouncements
@@ -1101,6 +1137,10 @@
 			doctrine = doctrine_eternal_theogenesis
 			doctrine = doctrine_local_gods_accepted
 			doctrine = doctrine_other_faiths_gods_accepted
+			doctrine = doctrine_angels_good_nongod
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_neutral_any
 
             doctrine = tenet_inner_journey
             doctrine = tenet_pseudognostic # make this # based on Ygdrasil Saga soft gnosticism
@@ -1130,6 +1170,10 @@
 			doctrine = doctrine_eternal_chaos
 			doctrine = doctrine_local_gods_rejected
 			doctrine = doctrine_other_faiths_gods_ignored_monolatry
+			doctrine = doctrine_angels_good_monotheistic
+			doctrine = doctrine_hellenic_high_god_lady_irene_monotheistic
+			doctrine = doctrine_hellenic_fall_of_olympus_cyclical
+			doctrine = doctrine_nymphs_demonized
 
             doctrine = tenet_gnosticism
             doctrine = tenet_scholarship_of_scripture
@@ -1161,6 +1205,10 @@
 			doctrine = doctrine_eternal_theogenesis
 			doctrine = doctrine_local_gods_dipantheonism
 			doctrine = doctrine_other_faiths_gods_equal_standards
+			doctrine = doctrine_angels_good_god_or_nongod
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_resurrectionist
+			doctrine = doctrine_nymphs_good_free
 		
             doctrine = tenet_inner_journey
             doctrine = tenet_ritual_hospitality
@@ -1183,7 +1231,7 @@
             doctrine = doctrine_consanguinity_restricted
             doctrine = doctrine_clerical_function_taxation
             doctrine = doctrine_clerical_gender_either
-			doctrine = doctrine_witchcraft_shunned
+			doctrine = doctrine_witchcraft_accepted
 			doctrine = doctrine_valdemarian_polygamy
 			
 			# Theology
@@ -1192,6 +1240,10 @@
 			doctrine = doctrine_eternal_theogenesis
 			doctrine = doctrine_local_gods_integrated # mostly dipantheonism # but integration happens often enough that this is correct enough
 			doctrine = doctrine_other_faiths_gods_fully_integrated
+			doctrine = doctrine_angels_good_god
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_good_free
 
 			doctrine = tenet_adaptive
             doctrine = tenet_pacifism

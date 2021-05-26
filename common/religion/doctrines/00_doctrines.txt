@@ -1806,6 +1806,11 @@ doctrine_pelasgian_high_god = {
 doctrine_angels = {
 	group = "clergy"
 	
+	doctrine_angels_demonized = { # Angels are demonized # evil # and irredeemable
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}	
 	doctrine_angels_none = { # No angels
 		piety_cost = { 
 			value = faith_doctrine_cost_none
@@ -1852,6 +1857,157 @@ doctrine_angels = {
 		}
 	}
 	doctrine_angels_neutral_monotheistic = { # Angels are a species of spirits who can be aligned either with [ROOT.Faith.HighGodName], [ROOT.Faith.DevilName], or not aligned at all.
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+	}
+}
+doctrine_hellenic_high_god = {
+	group = "clergy"
+	is_available_on_create = {
+		religion_tag = hellenism_religion
+	}
+	doctrine_hellenic_high_god_zeus = { # high god of hellenic_pagan
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_high_god_none = { # divine equality
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_high_god_adonis = { # high god of inner_pontic
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_high_god_cybele = { # high goddess of anatolian_cybelite
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_high_god_eirene = { # high goddess of old_ireneism
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_high_god_lady_irene_monotheistic = { # high and sole goddess of northern_ireneism and misrian_ireneism
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_high_god_lady_irene = { # high goddess of most Ireneist faiths
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+}
+doctrine_hellenic_fall_of_olympus = {
+	group = "clergy"
+	is_available_on_create = {
+		religion_tag = hellenism_religion
+	}
+	doctrine_hellenic_fall_of_olympus_traditional = { # Olympus was destroyed as a civilization by the Dionysian Revolution and the chaos that followed # and never recovered # the land is barren and broken
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_fall_of_olympus_none = { # Olympus was never destroyed # there was no revolution
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_fall_of_olympus_no_olympus = { # Olympus never existed
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_fall_of_olympus_dionysiist = { # Olympus was battered by the revolution but civilization was rebuilt by the nymphs and spirits
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_fall_of_olympus_resurrectionist = { # the gods were restored after the fall by the World Spell of Purity # no longer to be Impure or Ignoble # but retain a Purified and Noble form of their spheres
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_hellenic_fall_of_olympus_rebirth = { # the gods all died and were reborn naturally # Eirene#Irenes will making them renewed in purity # but she had no role in their return
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+	}
+	doctrine_hellenic_fall_of_olympus_cyclical = { # Olympus rises # dies # and is resurrected every year throughout the wheel of the year
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+	}
+}
+doctrine_nymphs = {
+	group = "clergy"
+	
+	doctrine_nymphs_demonized = { # nymphs are demonized # evil # and irredeemable
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}	
+	doctrine_nymphs_none = { # No nymphs
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_nymphs_irrelevant = { # No nymphs IN OUR PANTHEON # they may exist elsewhere # and the stance on them is determined by the doctrine_other_faiths_gods doctrine
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_nymphs_good_nongod = { # nymphs are good but are subordinate to the gods
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_nymphs_good_free = { # nymphs are good # are not subordinate to any gods but are not gods either
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_nymphs_good_god = { # nymphs are good # they are a specific species and or pantheon of deities
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_nymphs_good_any = { # nymphs are good # they may be deities, subordinate to deities, or free spirits
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
+	doctrine_nymphs_good_monotheistic = { # nymphs are good and are subordinate to [ROOT.Faith.HighGodName]
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+	}
+	doctrine_nymphs_neutral_nongod = { # nymphs exist, and can be subordinate to any deity, good or evil
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+	}
+	doctrine_nymphs_neutral_free = { # nymphs exist, and can be good or evil, but operate outside of pantheons and deity regulations and civilizations
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+	}
+	doctrine_nymphs_neutral_god = { # nymphs are a species of deities who can be any alignment
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+	}
+	doctrine_nymphs_neutral_any = { # nymphs are a species of spirits or deities who can be any alignment, and can be deities in their own right, subordinate to deities, or free spirits operating outside of pantheons
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+	}
+	doctrine_nymphs_neutral_monotheistic = { # nymphs are a species of spirits who can be aligned either with [ROOT.Faith.HighGodName], [ROOT.Faith.DevilName], or not aligned at all.
 		piety_cost = { 
 			value = faith_doctrine_cost_none
 		}
