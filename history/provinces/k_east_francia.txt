@@ -1323,6 +1323,8 @@
 }
 2056 = {	#PORRENTRUY
 	holding = none
+	culture = swabian
+	religion = allemanian_ireneism
 	975.1.1 = {
 		holding = church_holding
 	}

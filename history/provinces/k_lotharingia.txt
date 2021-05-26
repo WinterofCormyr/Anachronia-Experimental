@@ -372,6 +372,8 @@
 }
 2192 = {	#LURE
 	holding = church_holding
+	culture = french
+	religion = gallian_ireneism
 }
 
 ##d_lower_frenche ###################################

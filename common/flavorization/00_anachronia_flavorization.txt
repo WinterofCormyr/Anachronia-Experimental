@@ -148,3 +148,53 @@ title_empire_hattian = {
 	priority = 152
 	top_liege = no
 }
+title_high_king_france = { # High King
+	type = character
+	tier = empire
+	gender = male
+	special = holder
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_high_queen_france = { # High Queen
+	type = character
+	tier = empire
+	gender = female
+	special = holder
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_high_queendom_france = { # High Queen
+	type = title
+	tier = empire
+	titles = { e_france }
+	priority = 160
+	top_liege = yes
+}
+title_highprince_france = { # Highprince # High Prince
+	type = character
+	tier = kingdom
+	gender = male
+	special = holder
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_highprincess_france = { # Highprincess # High Princess
+	type = character
+	tier = kingdom
+	gender = female
+	special = holder
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_high_principality_france = { # High Principality
+	type = title
+	tier = kingdom
+	titles = { e_france }
+	priority = 160
+	top_liege = yes
+}

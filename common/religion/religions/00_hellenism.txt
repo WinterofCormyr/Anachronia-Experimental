@@ -967,7 +967,8 @@
             doctrine = tenet_monasticism
 			doctrine = tenet_mendicant_preachers
         }
-		gallian_ireneism = { # France and Aquitaine # Empire of France rises 1013 # petty kings before then # once done with Aquitaine provinces revamp French namelists
+		gallian_ireneism = { # France and Aquitaine # Empire of France rises 1013 under Amalie I d'Estrees # petty kings before then # once done with Aquitaine provinces revamp French namelists # Amalie's family were countesses of c_vermandois before then
+		
             color = { 0.16 0.26 0.86 }
             icon = hellenic
 			

@@ -7,10 +7,14 @@
 	holding = castle_holding
 }
 2062 = {	# ORANGE
-	holding = city_holding
+	holding = castle_holding
+	culture = occitan
+	religion = gallian_ireneism
 }
 2059 = {	#AVIGNON
-	holding = church_holding
+	holding = castle_holding
+	culture = occitan
+	religion = gallian_ireneism
 }
 2067 = {	#VAISON
 	culture = occitan
@@ -26,9 +30,13 @@
 }
 2024 = {	#DRAGUIGNIAN
 	holding = none
+	culture = occitan
+	religion = gallian_ireneism
 }
 2025 = {	#CASTELLANE
-	holding = church_holding
+	holding = castle_holding
+	culture = occitan
+	religion = gallian_ireneism
 }
 2018 = {	#MARSEILLE
 	culture = occitan
@@ -43,7 +51,9 @@
 	}
 }
 2023 = {	#AIX
-	holding = city_holding
+	holding = castle_holding
+	culture = occitan
+	religion = gallian_ireneism
 }
 
 ###c_nice
@@ -53,22 +63,28 @@
 	holding = castle_holding
 }
 2020 = {	#GRASSE
-	holding = none
-	holding = city_holding
+	culture = ligurian
+	religion = gallian_ireneism
+	holding = castle_holding
 }
 8720 = {	#BARCELONNETTE
 	holding = none
+	culture = ligurian
+	religion = gallian_ireneism
 	1231.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 8721 = {	#PUGET
 	holding = none
+	culture = ligurian
+	religion = gallian_ireneism
 	#1257
 }
 2026 = {	#DIGNE
-	holding = none
-	holding = church_holding
+	culture = ligurian
+	religion = gallian_ireneism
+	holding = castle_holding
 }
 
 ###c_forcalquier
@@ -78,19 +94,27 @@
 	holding = castle_holding
 }
 2060 = {	#APT
-	holding = city_holding
+	holding = castle_holding
+	culture = occitan
+	religion = gallian_ireneism
 }
 2027 = {	#EMBRUN
-	holding = church_holding
+	holding = castle_holding
+	culture = occitan
+	religion = gallian_ireneism
 }
 2028 = {	#GAP
 	holding = none
+	culture = occitan
+	religion = gallian_ireneism
 	1050.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 8718 = {	#BRIANCON
 	holding = none
+	culture = occitan
+	religion = gallian_ireneism
 }
 
 ##d_savoie ###################################
@@ -102,17 +126,23 @@
 }
 2029 = {	#SAINT-MICHEL-DE-MAURIENNE
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 }
 2455 = {	#CHAMBERY
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 	1050.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 2069 = {	#BELLEY
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 	1050.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -120,7 +150,7 @@
 2039 = {	#AOSTA
 	culture = cisalpine
 	religion = gallian_ireneism
-	holding = church_holding
+	holding = castle_holding
 }
 9684 = {	#AOSTA
 	culture = arpitan
@@ -133,7 +163,9 @@
 	holding = castle_holding
 }
 2038 = {	# MARTIGNY
-	holding = city_holding
+	holding = castle_holding
+	culture = cisalpine
+	religion = gallian_ireneism
 }
 
 ###c_geneva
@@ -144,12 +176,16 @@
 }
 2034 = {	#ANNECY
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 	1050.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 2036 = {	#THONON-LES-BAINS
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 	#1270
 }
 8719 = {	#FAUCIGNY
@@ -166,12 +202,16 @@
 }
 2042 = {	#PINEROLO
 	holding = none
+	culture = piedmont
+	religion = gallian_ireneism
 	1064.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 2456 = {	#CANAVESE = SUSA
-	holding = city_holding
+	holding = castle_holding
+	culture = piedmont
+	religion = gallian_ireneism
 }
 
 ##d_dauphine ###################################
@@ -184,14 +224,18 @@
 
 2070 = {	#VILLARS = Villars-les-Dombes
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 	920.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 2301 = {	#BEAUJEU
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 	1000.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -203,9 +247,13 @@
 }
 2298 = {	#MONTBRISON
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 }
 2305 = {	#ROANNE
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 	1050.1.1 = {
 		holding = castle_holding
 	}
@@ -218,7 +266,9 @@
 	holding = castle_holding
 }
 3258 = {	#ANNONAY
-	holding = church_holding
+	holding = castle_holding
+	culture = occitan
+	religion = gallian_ireneism
 }
 
 ###c_viennois
@@ -234,14 +284,18 @@
 }
 2032 = {	#CHARTREUSE = PALADRU
 	holding = none
+	culture = occitan
+	religion = gallian_ireneism
 	1100.1.1 = {
 		holding = castle_holding
 	}
 }
 2068 = {	#ROMANS
 	holding = none
+	culture = occitan
+	religion = gallian_ireneism
 	917.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -253,9 +307,13 @@ religion = gallian_ireneism
 }
 2066 = {	#DIE
 	holding = none
+	culture = occitan
+	religion = gallian_ireneism
 }
 2064 = {	#VALENCE
-	holding = church_holding
+	holding = castle_holding
+	culture = occitan
+	religion = gallian_ireneism
 }
 
 ##d_upper_burgundy ###################################
@@ -272,15 +330,21 @@ religion = gallian_ireneism
 }
 2075 = {	#MORTEAU
 	holding = none
+	culture = bourguignon
+	religion = gallian_ireneism
 }
 2459 = {	#ORNANS
 	holding = none
+	culture = bourguignon
+	religion = gallian_ireneism
 	1150.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 2383 = {	#GY
 	holding = none
+	culture = bourguignon
+	religion = gallian_ireneism
 }
 
 ###c_bresse
@@ -291,8 +355,10 @@ religion = gallian_ireneism
 }
 2457 = {	#CHAMPAGNOLE
 	holding = none
+	culture = arpitan
+	religion = gallian_ireneism
 	950.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -304,12 +370,18 @@ religion = gallian_ireneism
 }
 2191 = {	#QUINGEY
 	holding = none
+	culture = bourguignon
+	religion = gallian_ireneism
 }
 2073 = {	#LONS-LE-SAUNIER
-	holding = city_holding
+	holding = castle_holding
+	culture = bourguignon
+	religion = gallian_ireneism
 }
 2072 = {	#SALINS
 	holding = none
+	culture = bourguignon
+	religion = gallian_ireneism
 }
 
 ##d_transjurania ###################################
@@ -320,12 +392,12 @@ religion = gallian_ireneism
 	holding = castle_holding
 }
 2037 = {	#LAUSANNE
-	holding = church_holding
+	holding = castle_holding
 		culture = arpitan
 	religion = gallian_ireneism
 }
 9679 = {	#LAUSANNE
-	holding = church_holding
+	holding = castle_holding
 		culture = swabian
 	religion = gallian_ireneism
 }
@@ -336,14 +408,18 @@ religion = gallian_ireneism
 }
 2047 = {	#THUN
 	holding = none
+	culture = swabian
+	religion = gallian_ireneism
 }
 9677 = {	#THUN
 	culture = swabian
 	religion = gallian_ireneism
-	holding = city_holding
+	holding = castle_holding
 }
 9678 = {	#THUN
 	holding = none
+	culture = swabian
+	religion = gallian_ireneism
 }
 
 ###c_aargau
@@ -358,7 +434,9 @@ religion = gallian_ireneism
 	holding = castle_holding
 }
 2048 = {	#LUCERNE
-	holding = church_holding
+	holding = castle_holding
+	culture = swabian
+	religion = gallian_ireneism
 }
 
 ###c_neuchatel
@@ -368,5 +446,7 @@ religion = gallian_ireneism
 	holding = castle_holding
 }
 2074 = {	#PONTARLIER
-	holding = city_holding
+	holding = castle_holding
+	culture = swabian
+	religion = gallian_ireneism
 }

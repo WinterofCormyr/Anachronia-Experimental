@@ -697,3 +697,7 @@ drsdyn174 = {
 	name = "Hypation" 
 	culture = pontic
 }
+drsdyn175 = { 
+	name = "d'Estrées" 
+	culture = french
+}

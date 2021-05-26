@@ -289,6 +289,8 @@ religion = gallian_ireneism
 }
 2224 = {	#SAINT FLOUR
 	holding = castle_holding
+	culture = occitan
+	religion = gallian_ireneism
 }
 2291 = {	#LANGEAC
 	holding = none

@@ -2246,11 +2246,6 @@
 			Jourdain Julien LE_on LE_onard Lothaire Louis Loup Maurice Nicolas Ogier Onfroy Orson Othon
 			Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger
 			Rorgon Rorgues Roubaud Savary Sigismond Thibault ThiE_baut Thierry Valeran Yves
-			# Gallo-Romance names
-			Agen Agennory Alain Alesandre Amadeu Ambery Antonin Apotour Ategnet Aurely
-			Bechat Bellon Bennaques Beory Betory Betoury Bognet Bolge Bren Bretagniques Breumage Brout
-			Cadoual Carin Cecily Cendry Celtille Chastiques Chavar Claude Comain Combarre Comboge Commoual Cornely Corre Cosantin Cres
-			Dechar Dicy Drotey Drous
 		}
 		female_names = {
 			E_lE_onore E_lodie E_tiennette AdE_le Adalmode Adelaide Adelinde Agathe AgnE_s AlE_arde Alice AliE_nor
