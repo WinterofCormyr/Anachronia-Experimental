@@ -620,7 +620,8 @@
 		}
 
 		parameters = {
-			mystic_birthright_active = yes
+			tenet_esotericism_mystic_education = yes
+			meditation_mechanics_active = yes
 		}
 		traits = {
 			virtues = { improvident }

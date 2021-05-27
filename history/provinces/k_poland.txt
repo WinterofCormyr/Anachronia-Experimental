@@ -2,12 +2,11 @@
 ##d_lesser_poland ###################################
 ###c_krakowska
 527 = {		#Krakow
+	holding = castle_holding
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
-		holding = castle_holding
 	}
 	1066.1.1 = {
 		buildings = {
@@ -19,25 +18,48 @@
 }
 440 = {		#Olsztyn
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 526 = {		#Czestochowa
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1050.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4972 = {	#Dabrowa Gorn
 	holding = none	
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 4973 = {	#Wislica
 	holding = none
+	culture = polish
+	religion = slavic_pagan
 	966.4.14 = {
-		holding = city_holding
+		religion = slavonic_ireneism
+		holding = castle_holding
 		#Technically from the IXth century
 	}
 }
 4974 = {	#Jedrzejow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1080.1.1 = {
 		holding = castle_holding
 	}
@@ -47,7 +69,7 @@
 532 = {		#Sacz
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -56,26 +78,46 @@
 }
 4968 = {	#Pilzno
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1075.1.1 = {
 		holding = castle_holding
 	}
 }
 4969 = {	#Nowy Targ
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1308.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4970 = {	#Bochnia
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1180.1.1 = {
 		holding = castle_holding
 	}
 }
 4971 = {	#Wieliczka
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1123.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -83,7 +125,7 @@
 531 = {		#Sandomierz
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -98,31 +140,51 @@
 }
 4961 = {	#Opatow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1150.1.1 = {
 		holding = castle_holding
 	}
 }
 4962 = {	#Kielce
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1020.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4963 = {	#Olesnica
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1080.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4964 = {	#Checiny
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_stezycka
 4951 = {	#Stezyca
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -130,13 +192,18 @@
 }
 4952 = {	#Lukow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_radomska
 4953 = {	#Radom
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -144,23 +211,36 @@
 }
 4954 = {	#Opoczno
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 4955 = {	#Ilza
 	holding = none
+	culture = polish
+	religion = slavic_pagan
 	966.4.14 = {
-		holding = city_holding
+		religion = slavonic_ireneism
+		holding = castle_holding
 		#Technically a slavic gord in 860s already
 	}
 }
 4956 = {	#Szydlowiec
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_lubelska
 4957 = {	#Lublin
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -168,22 +248,37 @@
 }
 4958 = {	#Parczew
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1065.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4959 = {	#Goraj
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 4960 = {	#Urzedow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_tarnowska
 4965 = {	#Tarnow
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -191,12 +286,22 @@
 }
 4966 = {	#Mielec
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1180.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4967 = {	#Baranow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ##d_wielkopolska ###################################
@@ -204,7 +309,7 @@
 4900 = {	#Poznan
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -219,31 +324,49 @@
 }
 4901 = {	#Miedzyrzecz
 	holding = none
+	culture = polish
+	religion = slavic_pagan
 	966.4.14 = {
-		holding = church_holding
+		religion = slavonic_ireneism
+		holding = castle_holding
 	}
 }
 4902 = {	#Czarnkow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1065.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4903 = {	#Wronki
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1185.1.1 = {
 		holding = castle_holding
 	}
 }
 4904 = {	#Wolsztyn
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_gnieznienska
 4905 = {	#Gniezno
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	867.1.1 = {
 		buildings = {
 			longhouses_01
@@ -251,30 +374,45 @@
 	}
 	966.4.14 = {
 		religion = slavonic_ireneism
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4906 = {	#Sroda
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1180.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4907 = {	#Pyzdry
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1180.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4908 = {	#Konin
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_kaliska
 4909 = {	#Kalisz
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -282,11 +420,21 @@
 }
 4910 = {	#Kozmin
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 4911 = {	#Turek
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	950.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -294,7 +442,7 @@
 4912 = {	#Wschowa
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -302,12 +450,22 @@
 }
 4913 = {	#Koscian
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1185.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4914 = {	#Srem
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	950.1.1 = {
 		holding = castle_holding
 	}
@@ -317,7 +475,7 @@
 4915 = {	#Naklo
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -325,11 +483,21 @@
 }
 4916 = {	#Zlotow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 4917 = {	#Znin
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1075.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -337,7 +505,7 @@
 3149 = {	#Lebus (Lubusz)
 	culture = pommeranian
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -349,17 +517,32 @@
 }
 3142 = {	#Oderfrankfurt (Zliwitz)
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 3148 = {	#Sulecin
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1080.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3147 = {	#Rzepin
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	980.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -368,7 +551,7 @@
 529 = {		#Plock
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -376,13 +559,19 @@
 }
 4933 = {	#Wyszogrod
 	holding = none
+	culture = polish
+	religion = slavic_pagan
 	966.4.14 = {
-		holding = church_holding
+		religion = slavonic_ireneism
+		holding = castle_holding
 	}
 }
 4934 = {	#Zawkrze
 	holding = none
+	culture = polish
+	religion = slavic_pagan
 	966.4.14 = {
+		religion = slavonic_ireneism
 		religion = slavonic_ireneism
 		holding = castle_holding
 		#Technically already a grod in 860s
@@ -390,8 +579,13 @@
 }
 4935 = {	#Ciechanow
 	holding = none	
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1030.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -399,7 +593,7 @@
 530 = {		#Czersk
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -407,29 +601,47 @@
 }
 4936 = {	#Warszawa
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1185.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4937 = {	#Liw
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 4938 = {	#Brodno
 	holding = none
+	culture = polish
+	religion = slavic_pagan
 	966.4.14 = {
-		holding = city_holding
+		religion = slavonic_ireneism
+		holding = castle_holding
 		#Technically already a settlement in 870s
 	}
 }
 4939 = {	#Garwolin
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_gostyninska
 4940 = {	#Gostynin
 	culture = polish
 	religion = slavic_pagan	
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -437,17 +649,32 @@
 }
 4941 = {	#Rawa
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 4942 = {	#Sochaczew
 	holding = none	
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1055.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4950 = {	#Lowicz
-	holding = none	
+	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1136.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -455,7 +682,7 @@
 4943 = {	#Lomza
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -463,19 +690,29 @@
 }
 4944 = {	#Wizna
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1000.1.1 = {
 		holding = castle_holding
 	}
 }
 4945 = {	#Kolno
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_zakroczymska
 4946 = {	#Zakroczym
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -483,18 +720,33 @@
 }
 4947 = {	#Nur
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1180.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4948 = {	#Wyszkow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1175.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4949 = {	#Rozan
 	holding = none	
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ##d_upper_silesia ###################################
@@ -502,7 +754,7 @@
 3052 = {	#Opole
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -510,14 +762,24 @@
 }
 3053 = {	#Kreuzburg / Kluczbork
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1252.11.2 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 3051 = {	#Strehlitz / Strzelce
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1234.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -525,7 +787,7 @@
 3049 = {	#Brzeg
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	990.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -534,14 +796,24 @@
 }
 3055 = {	#Olawa
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1149.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3056 = {	#Otmunchow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1150.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -549,7 +821,7 @@
 3048 = {	#Nysa
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	990.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -558,12 +830,22 @@
 }
 3050 = {	#Glogowek
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1212.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3046 = {	#Frankenstein / Zabkowice
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1280.1.1 = {
 		holding = castle_holding
 	}
@@ -573,7 +855,7 @@
 3040 = {	#Cieszyn
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -581,8 +863,13 @@
 }
 3041 = {	#Bielsko
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1150.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -590,7 +877,7 @@
 3042 = {	#Ratibor / Raciborz
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	990.1.1 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -598,8 +885,13 @@
 }
 3043 = {	#Rybnik
 	holding = none
+	culture = polish
+	religion = slavic_pagan
 	966.4.14 = {
-		holding = city_holding
+		religion = slavonic_ireneism
+	}
+	966.4.14 = {
+		holding = castle_holding
 	}
 }
 
@@ -607,7 +899,7 @@
 3044 = {	#Bethen / Bytom
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -615,8 +907,13 @@
 }
 3054 = {	#Lubliniec
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1270.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -625,7 +922,7 @@
 3045 = {	#Breslau / Wroclaw
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	990.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -641,7 +938,10 @@
 }
 3057 = {	#Bardo
 	holding = none
+	culture = polish
+	religion = slavic_pagan
 	966.4.14 = {
+		religion = slavonic_ireneism
 		holding = castle_holding
 	}
 	
@@ -651,7 +951,7 @@
 3061 = {	#Miliez
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -659,8 +959,13 @@
 }
 3062 = {	#Olesnica
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1150.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -668,7 +973,7 @@
 3145 = {	#Schweibus / Swiebodzin
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -677,12 +982,22 @@
 }
 3146 = {	#Siedlischo
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1250.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3065 = {	#Bytom Odrzanski
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1005.1.1 = {
 		holding = castle_holding
 	}
@@ -692,7 +1007,7 @@
 3064 = {	#Grunberg / Zielona Gora
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	990.1.1 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -702,14 +1017,24 @@
 }
 3139 = {	#Gubin
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1200.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3144 = {	#Crossen / Krosno
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1250.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -717,7 +1042,7 @@
 3067 = {	#Sprottau / szprotawa
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	990.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -727,21 +1052,31 @@
 }
 3066 = {	#Zagan
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1150.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3070 = {	#Nowogrodziec
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1233.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 ###c_przemkow
 3068 = {	#Przemkow
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	990.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -751,14 +1086,24 @@
 }
 3069 = {	#Wlen
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1214.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3059 = {	#Swiny
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1000.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -766,7 +1111,7 @@
 3058 = {	#Legnica
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	990.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -776,12 +1121,22 @@
 }
 3063 = {	#Glogow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
 	966.4.14 = {
-		holding = city_holding
+		religion = slavonic_ireneism
+	}
+	966.4.14 = {
+		holding = castle_holding
 	}
 }
 3060 = {	#Sadowel
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1130.1.1 = {
 		holding = castle_holding
 	}
@@ -792,7 +1147,7 @@
 4918 = {	#Kruszwica
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -800,18 +1155,33 @@
 }
 4919 = {	#Wloclawek
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1050.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 4920 = {	#Inowroclaw
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1150.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4921 = {	#Bydgoszcz
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1048.1.1 = {
 		holding = castle_holding
 	}
@@ -821,7 +1191,7 @@
 4922 = {	#Dobrzyn
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -829,15 +1199,20 @@
 }
 4923 = {	#Michalowo
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1180.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 ###c_leczycka
 4924 = {	#Leczyca
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -845,16 +1220,26 @@
 }
 4925 = {	#Lodz
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 4926 = {	#Klodawa
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_sieradzka
 528 = {		#Sieradz
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -862,23 +1247,43 @@
 }
 4927 = {	#Piotrkow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }
 4928 = {	#Przedborz
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1080.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4929 = {	#Radomsko
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1180.1.1 = {
 		holding = castle_holding
 	}
 }
 4930 = {	#Uniejow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 	1065.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -886,7 +1291,7 @@
 4931 = {	#Wielun
 	culture = polish
 	religion = slavic_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	966.4.14 = {
 		religion = slavonic_ireneism
 		holding = castle_holding
@@ -894,4 +1299,9 @@
 }
 4932 = {	#Grabow
 	holding = none
+	culture = polish
+	religion = slavic_pagan
+	966.4.14 = {
+		religion = slavonic_ireneism
+	}
 }

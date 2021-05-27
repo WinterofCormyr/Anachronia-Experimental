@@ -20,24 +20,34 @@
 	}
 }
 4126 = {	#VYSEHRAD
-	holding = city_holding
+	holding = castle_holding
+	culture = czech
+	religion = aelonist_aitahism
 }
 4127 = {	#BEROUN
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	1066.1.1 = {
 		holding = castle_holding
 	}
 }
 4128 = {	#MELNIK
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 4130 = {	#SLANY
-	holding = church_holding
+	holding = castle_holding
+	culture = czech
+	religion = aelonist_aitahism
 }
 4158 = {	#MILEVSKO
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	900.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -52,18 +62,24 @@
 }
 4131 = {	#BILINA
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	993.1.1 = {
 		holding = castle_holding
 	}
 }
 4133 = {	#DECIN
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	993.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4135 = {	#ZITAVA
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 
 ###c_zatec
@@ -77,15 +93,21 @@
 }
 4132 = {	#KADAN
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	1066.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4141 = {	#SEDLEC
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 4142 = {	#LOKET
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 
 ###c_plzen
@@ -98,27 +120,37 @@
 	}
 }
 4143 = {	#STRIBRO
-	holding = none	
+	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 4144 = {	#PRIMDA
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	1100.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4146 = {	#DOMAZLICE
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	883.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 4149 = {	#PRACHEN
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 4151 = {	#PISEK
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	1066.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -133,20 +165,30 @@
 }
 4150 = {	#NETOLICE
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 4153 = {	#ROZMBERK
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 4152 = {	#KRUMLOV
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 4156 = {	#CHYNOV
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 4157 = {	#BECHYNE
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	883.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -158,6 +200,8 @@
 }
 4134 = {	#BEZDEZ
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 
 ###c_hradec
@@ -172,17 +216,23 @@
 }
 4137 = {	#DVUR-CHVOJNO
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 }
 4139 = {	#JAROMER
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	1050.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3047 = {	#KLADZKO
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	950.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -199,12 +249,16 @@
 	}
 }
 4140 = {	#VRACLAV
-	holding = city_holding
+	holding = castle_holding
+	culture = czech
+	religion = aelonist_aitahism
 }
 4160 = {	#CHRUDIM
 	holding = none
+	culture = czech
+	religion = aelonist_aitahism
 	990.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -225,9 +279,13 @@
 }
 4181 = {	#UNICOV
 	holding = none
+	culture = slovien
+	religion = slavonic_ireneism
 }
 4148 = {	#KROMERIZ
-	holding = city_holding
+	holding = castle_holding
+	culture = slovien
+	religion = slavonic_ireneism
 }
 
 ###c_opava
@@ -238,7 +296,9 @@
 
 }
 4183 = {	#HRADEC NAD MORAVICI
-	holding = city_holding
+	holding = castle_holding
+	culture = slovien
+	religion = slavonic_ireneism
 }
 
 ###c_prerov
@@ -250,15 +310,21 @@
 }
 4159 = {	#SPYTIHNEV
 	holding = none
+	culture = slovien
+	religion = slavonic_ireneism
 }
 4170 = {	#HODONIN
 	holding = none
+	culture = slovien
+	religion = slavonic_ireneism
 	1000.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 8999 = {	#VESELI
 	holding = none
+	culture = slovien
+	religion = slavonic_ireneism
 }
 
 ###c_brno
@@ -270,9 +336,13 @@
 }
 4167 = {	#IVANICE
 	holding = none
+	culture = slovien
+	religion = slavonic_ireneism
 }
 4163 = {	#ZDAR
 	holding = none
+	culture = slovien
+	religion = slavonic_ireneism
 }
 
 ###c_jihlava
@@ -284,6 +354,8 @@
 }
 4155 = {	#TELCZ
 	holding = none
+	culture = slovien
+	religion = slavonic_ireneism
 }
 
 ###c_znojmo
@@ -295,11 +367,16 @@
 }
 4164 = {	#BITOV
 	holding = none
+	culture = slovien
+	religion = slavonic_ireneism
 }
 4169 = {	#BRECLAV
-	holding = city_holding
+	holding = castle_holding
+	culture = slovien
+	religion = slavonic_ireneism
 }
 3080 = {	#MIKULOV
 	#german colonization of southern parts
-	1160.1.1 = { culture = german }
+	culture = franconian
+	religion = slavonic_ireneism
 }

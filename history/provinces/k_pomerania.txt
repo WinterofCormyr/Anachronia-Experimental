@@ -11,14 +11,18 @@
 }
 2822 = {	#b_ucramund WKRA = Ueckermünde
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	930.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3155 = {	#b_gryfino PYRZYCE
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1120.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -40,20 +44,26 @@
 }
 2824 = {	#b_kolobrzeg KAMIEN
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1005.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 2825 = {	#b_stargad GOLENIOW
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	#980.1.1 = {	#Outcommented to leave empty holding slots
 	#	holding = castle_holding
 	#}
 }
 2836 = {	#b_lobez NOWOGARD
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	990.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -68,6 +78,8 @@
 }
 3153 = {	#b_kostschin KOSTRZYN NAD ODRA
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 }
 
 ###c_cammin (c_kolobrzeg)
@@ -81,14 +93,18 @@
 }
 3184 = {	#b_dramberg CZAPLINEK
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1066.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3185 = {	#b_belgard BIALOGARD
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1100.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -103,11 +119,15 @@
 }
 3186 = {	#PILA
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 }
 3188 = {	#SZCZECINEK
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	990.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -122,18 +142,24 @@
 }
 3151 = {	#b_driesen WIELEN
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1100.1.1 = {
 		holding = castle_holding
 	}
 }
 3156 = {	#b_arnswalde STARGARD
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1124.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3183 = {	#b_kreuz CHOSZCZNO
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 }
 
 ##d_pomerelia ###################################
@@ -155,18 +181,24 @@
 }
 2833 = {	#SOPOT
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1050.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 2832 = {	#b_wladyslawowo PUCK
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	990.1.1 = {
-		holding = church_holding	#church for some diversity
+		holding = castle_holding	#church for some diversity
 	}
 }
 3194 = {	#b_trsow TCZEW
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	#1200
 }
 
@@ -181,15 +213,21 @@
 }
 2828 = {	#KOSZALIN
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1050.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 2829 = {	#b_lebno LEBORK
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 }
 3191 = {	#BYTOW
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1113.1.1 = {
 		holding = castle_holding
 	}
@@ -206,6 +244,8 @@
 }
 3189 = {	#MIASTKO
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 }
 
 ###c_berent (c_swiecie)
@@ -219,12 +259,18 @@
 }
 3195 = {	#b_berent KOSCIERZYNA
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 }
 3193 = {	#b_tuchowna STAROGARD
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 }
 3192 = {	#b_konitz CHOJNICE
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 }
 
 ##d_nordmark ###################################
@@ -242,7 +288,7 @@
 	religion = aelonist_aitahism
 	holding = castle_holding
 	1045.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 9668 = {	#WISMAR
@@ -250,7 +296,7 @@
 	religion = aelonist_aitahism
 	holding = castle_holding
 	1045.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 2806 = {	#RATZEBURG
@@ -266,7 +312,7 @@
 	religion = aelonist_aitahism
 	holding = castle_holding
 	1045.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 2808 = {	#SCHWERIN
@@ -279,6 +325,8 @@
 }
 2813 = {	#PARCHIM
 	holding = none
+	culture = polabian
+	religion = aelonist_aitahism
 }
 
 ###c_wolgast
@@ -292,8 +340,10 @@
 }
 2816 = {	#GRIEFSWALD
 	holding = none
+	culture = pommeranian
+	religion = aelonist_aitahism
 	1199.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -308,6 +358,8 @@
 }
 2810 = {	#STRALSUND
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 }
 
 ###c_rostock
@@ -321,6 +373,8 @@
 }
 2819 = {	#GUSTROW
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 	#1219
 }
 
@@ -336,12 +390,16 @@
 }
 2820 = {	#NEUBRANDENBURG
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 	1248.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 2821 = {	#NEUSTRELITZ
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 	#1278
 }
 
@@ -358,15 +416,21 @@
 }
 3157 = {	#POTSDAM
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 	993.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3177 = {	#LEHNIN
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 }
 3170 = {	#TENGERMUNDE
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 	950.1.1 = {
 		holding = castle_holding
 	}
@@ -383,9 +447,13 @@
 }
 3167 = {	#LINDOW
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 }
 3169 = {	#NOWEN
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 }
 
 ###c_berlin
@@ -399,9 +467,13 @@
 }
 3164 = {	#BOTZOW
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 }
 3165 = {	#ROSENFELDE
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 }
 
 ###c_havelberg
@@ -410,11 +482,13 @@
 	religion = aelonist_aitahism
 	holding = castle_holding
 	1124.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 2815 = {	#KLENOW
 	holding = none
+	culture = polabian
+	religion = aelonist_aitahism
 }
 
 ###c_prenzlau
@@ -428,13 +502,19 @@
 }
 3163 = {	#TEMPLIN
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 }
 3162 = {	#SCHWEDT
 	holding = castle_holding
+	culture = lutici
+	religion = aelonist_aitahism
 	980.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 3161 = {	#EBERSWALDE
 	holding = none
+	culture = lutici
+	religion = aelonist_aitahism
 }

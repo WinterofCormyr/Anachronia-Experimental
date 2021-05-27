@@ -254,11 +254,11 @@
 		lelegic_cybelite = {
 			color = { 0.1 0.6 0.1 }
 			icon = lithuanian_03
-			holy_site = rome
-			holy_site = athens
-			holy_site = sparta
+			holy_site = lesbos
+			holy_site = athens # thera
+			holy_site = sparta # nikaea
 			holy_site = alexandria
-			holy_site = carthage
+			holy_site = carthage # ilion
 			# holy sites
 			# lesbos # thera # nikaea # alexandria # ilion
 			
@@ -300,11 +300,11 @@
 		chalkidian_faith = {
 			color = { 0.5 0.5 0.9 }
 			icon = estonian_03
-			holy_site = rome
+			holy_site = rome # ilion
 			holy_site = constantinople
-			holy_site = sparta
+			holy_site = sparta # nikaea
 			holy_site = alexandria
-			holy_site = carthage
+			holy_site = carthage # chalkidike
 			# holy sites
 			# ilion # constantinople # nikaea # alexandria # chalkidike
 			
@@ -346,6 +346,42 @@
 			doctrine = doctrine_other_faiths_gods_semi_integrated
 			doctrine = doctrine_pelasgian_high_god_atana_cybeleia
 			doctrine = doctrine_angels_neutral_god_or_nongod
+		}
+		arkadian_faith = {
+			color = { 0 150 150 }
+			icon = lithuanian_02
+			holy_site = rome # arcadia
+			holy_site = constantinople # thera
+			holy_site = sparta # corinth # korinthos
+			holy_site = alexandria
+			holy_site = lesbos # kaneia
+			# holy sites
+			# ilion # constantinople # nikaea # alexandria # lesbos
+			
+			doctrine = tenet_sky_burials
+			doctrine = mz_tenet_great_hunt
+			doctrine = tenet_astrology
+			
+			# Theology
+			doctrine = doctrine_polytheism
+			doctrine = doctrine_deities_worshipped_henotheism
+			doctrine = doctrine_theogony_ex_nihilo
+			doctrine = doctrine_local_gods_accepted
+			doctrine = doctrine_other_faiths_gods_semi_integrated
+			doctrine = doctrine_pelasgian_high_god_britomartis
+			doctrine = doctrine_angels_neutral_god_or_nongod
+			
+			
+			localization = {
+				#High God Name
+				HighGodName = pelasgian_good_god_britomartis # Britomartis # the Huntswoman
+				HighGodNamePossessive = pelasgian_good_god_britomartis_name_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_SHE
+				HighGodHerselfHimself = CHARACTER_HERSELF
+				HighGodHerHis = CHARACTER_HERHIS_HER
+				HighGodNameAlternate = pelasgian_good_god_artemis # Artemis
+				HighGodNameAlternatePossessive = pelasgian_good_god_artemis_name_possessive
+			}
 		}
 		# FAITHS TO MAKE 
 		# iliite_faith # same deities and names # tenet_civilized tenet_way_of_cybele tenet_reincarnation # doctrine_gender_equal

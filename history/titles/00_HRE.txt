@@ -29,6 +29,7 @@ k_sorbia = {
 d_meissen = {
 	820.1.1 = {
 		holder = drssorbia0001 # Aeta Crabatovsce
+		liege = k_sorbia
 	}
 	862.1.1 = {
 		holder = drssorbia0005 # Marja Blancavsce
@@ -40,6 +41,7 @@ d_meissen = {
 c_meissen = {
 	820.1.1 = {
 		holder = drssorbia0001 # Aeta Crabatovsce
+		liege = d_meissen
 	}
 	862.1.1 = {
 		holder = drssorbia0005 # Marja Blancavsce
@@ -48,6 +50,7 @@ c_meissen = {
 c_vogtland = {
 	820.1.1 = {
 		holder = drssorbia0001 # Aeta Crabatovsce
+		liege = d_meissen
 	}
 	862.1.1 = {
 		holder = drssorbia0008 # Lydija Aetavsce, Countess of Vogtland
@@ -56,6 +59,7 @@ c_vogtland = {
 d_anhalt = {
 	820.1.1 = {
 		holder = drssorbia0001 # Aeta Crabatovsce
+		liege = k_sorbia
 	}
 	862.1.1 = {
 		holder = drssorbia0006 # Trudla Crabatovsce
@@ -67,6 +71,7 @@ d_anhalt = {
 c_wittenberg = {
 	820.1.1 = {
 		holder = drssorbia0001 # Aeta Crabatovsce
+		liege = d_anhalt
 	}
 	862.1.1 = {
 		holder = drssorbia0006 # Trudla Crabatovsce
@@ -75,6 +80,7 @@ c_wittenberg = {
 d_lausitz = {
 	820.1.1 = {
 		holder = drssorbia0001 # Aeta Crabatovsce
+		liege = k_sorbia
 	}
 	862.1.1 = {
 		holder = drssorbia0007 # Ruzalca Aetavsce
@@ -86,6 +92,7 @@ d_lausitz = {
 c_juterbog = {
 	820.1.1 = {
 		holder = drssorbia0001 # Aeta Crabatovsce
+		liege = d_lausitz
 	}
 	862.1.1 = {
 		holder = drssorbia0007 # Ruzalca Aetavsce

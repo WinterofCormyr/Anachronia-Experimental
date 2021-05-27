@@ -20,23 +20,31 @@
 }
 433 = {		#HELSINGORA
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 85 = {		#HAFN
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	1010.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 64 = {		#NAEVSTED
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	1060.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 69 = {		#SLAGELSE
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	980.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -48,12 +56,16 @@
 }
 66 = {		#SVENDBORG
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	1060.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 228 = {		#MIDDELFART
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ###c_lolland_falster
@@ -64,6 +76,8 @@
 }
 68 = {		#NAKSKOV
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ##d_skane ###################################
@@ -83,18 +97,26 @@
 }
 71 = {		#TRELLEBORG
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	1066.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 72 = {		#TOMMERUP
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 86 = {		#GOINGE
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 73 = {		#HELSINGBORG
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	1066.1.1 = {
 		holding = castle_holding
 	}
@@ -107,10 +129,14 @@
 	holding = castle_holding
 }
 75 = {		#ONSALA
-	holding = church_holding
+	holding = castle_holding
+	culture = danish
+	religion = valdemarian_common
 }
 76 = {		#LAHOLM
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ###c_bornholm
@@ -128,15 +154,21 @@
 }
 79 = {		#RONNEBY
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	1066.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 87 = {		#LISTER
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 80 = {		#AVASKAR
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ##d_jylland ###################################
@@ -148,12 +180,16 @@
 }
 58 = {		#JELLING
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	965.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 226 = {		#DJURSLAND
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ###c_viborg
@@ -164,6 +200,8 @@
 }
 222 = {		#ORMSTRUP
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ###c_ringkobing
@@ -174,15 +212,21 @@
 }
 221 = {		#HOLSTEBRO
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	1066.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 223 = {		#YCOST
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 225 = {		#TARM
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ###c_aalborg
@@ -193,9 +237,13 @@
 }
 55 = {		#LINDHOLM
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 224 = {		#RANDROS
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ##d_slesvig ###################################
@@ -218,12 +266,16 @@
 }
 61 = {		#AABENRAA
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	1066.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 84 = {		#HUSUMBRO
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ###c_vorbasse
@@ -234,18 +286,22 @@
 }
 227 = {		#TAULOV
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 	1000.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 434 = {		#KOLDING
 	holding = none
+	culture = danish
+	religion = valdemarian_common
 }
 
 ###c_ribe
 60 = {		#RIBE
 	culture = frisian
-	religion = valdemarian_common
+	religion = shayanaic
 	holding = castle_holding 
 	
 	1066.1.1 = {
@@ -258,10 +314,14 @@
 }
 83 = {		#VARDE
 	holding = none
+	culture = frisian
+	religion = shayanaic
 	1066.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 220 = {		#STRAND
 	holding = none
+	culture = frisian
+	religion = shayanaic
 }

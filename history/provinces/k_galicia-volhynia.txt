@@ -2,108 +2,130 @@
 ##d_volhynia ###################################
 ###c_volodymyr
 535 = {		#Volodymyr
+	holding = castle_holding
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
 }
 5047 = {	#Lutsk
-	holding = none
-	935.1.1 = {
-		holding = city_holding
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5048 = {	#Luboml
-	holding = none
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }
 5049 = {	#Kovel
-	holding = none
-	1310.1.1 = {
-		holding = church_holding
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5050 = {	#Rozhyshche
-	holding = none
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_peresopnytsia
 5051 = {	#Peresopnytsia
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
+	holding = castle_holding
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
 }
 5052 = {	# Rivne
-	holding = none
-	1283.1.1 = {
-		holding = city_holding
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5053 = {	#Klevan
-	holding = none
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_berestye
 549 = {		#Berestye
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	985.1.1 = {
-		holding = castle_holding
-	}
+	holding = castle_holding
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
 }
 5054 = {	#Bielsk
-	holding = none
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
-	1150.1.1 = {
-		holding = city_holding
-	}
 }
 5055 = {	#Kamyanyets
-	holding = none
-	1276.1.1 = {
-		holding = castle_holding
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5056 = {	#Simiatychi
-	holding = none
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_dorohychyn
 5057 = {	#Dorohychyn
+	holding = castle_holding
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	985.1.1 = {
-		holding = castle_holding
-	}
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
 }
 5058 = {	#Kobryn
-	holding = none
-	1287.1.1 = {
-		holding = city_holding
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5059 = {	#Blotkowo
-	holding = none
+	holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ##d_halych ###################################
@@ -112,109 +134,124 @@
 	culture = russian
 	religion = slavic_pagan
 	
-	holding = tribal_holding
-	
-	1054.1.1 = {
-		holding = castle_holding
-	}
+	holding = castle_holding
 	1054.2.20 = {religion = slavonic_ireneism }
 }
 5060 = {	#Sambir
-	holding = none
-	1150.1.1 = {
-		holding = city_holding
-	}
+	culture = russian
+	religion = slavic_pagan
+	
+	holding = castle_holding
+	1054.2.20 = {religion = slavonic_ireneism }
 }
 5061 = {	#Kolomyia
-	holding = none
-	1240.1.1 = {
-		holding = city_holding
-	}
+	culture = russian
+	religion = slavic_pagan
+	
+	holding = castle_holding
+	1054.2.20 = {religion = slavonic_ireneism }
 }
 
 5062 = {	#Spas
-	holding = none
-	1295.1.1 = {
-		holding = church_holding
-	}
+	culture = russian
+	religion = slavic_pagan
+	
+	holding = castle_holding
+	1054.2.20 = {religion = slavonic_ireneism }
 }
 
 ###c_lviv
 5063 = {	#Lviv
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
+	holding = castle_holding
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
 }
 5064 = {	#Zvenyhorod
-	holding = none
-	1050.1.1 = {
-		holding = city_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 
 5065 = {	#Busk
-	holding = none
-	1071.1.1 = {
-		holding = church_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5066 = {	#Buchach
-	holding = none
-	1260.1.1 = {
-		holding = city_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5067 = {	#Moklekov
-	holding = none
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_terebovl
 546 = {		#Terebovl
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
+	holding = castle_holding
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
 }
 5068 = {	#Horodok
-	holding = none
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }
 5069 = {	#Chortkiv
-	holding = none
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_zaslavl
 5070 = {	#Zaslavl
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
+	holding = castle_holding
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
 }
 5071 = {	#Dubno
-	holding = none
-	1100.1.1 = {
-		holding = city_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5072 = {	#Ostroh
-	holding = none
-	1100.1.1 = {
-		holding = church_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 
@@ -223,56 +260,58 @@
 5073 = {	#Cherven
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
+	holding = castle_holding
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
 }
 5074 = {	#Volin
-	holding = none
-	935.1.1 = {
-		holding = city_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5075 = {	#Kholm
-	holding = none
-	950.1.1 = {
-		holding = castle_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5076 = {	#Suteysk
-	holding = none
-	1035.1.1 = {
-		holding = church_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 ###c_belz
 5077 = {	#Belz
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
+	holding = castle_holding
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
 }
 5078 = {	#Liubachev
-	holding = none
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }
 
 ###c_peremyshl
 534 = {		#Peremyshl	
 	culture = russian
 	religion = slavic_pagan
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
+	holding = castle_holding
 	989.9.15 = {
 		religion = slavonic_ireneism
 	}
@@ -285,17 +324,26 @@
 	}
 }
 5079 = {	#Yaroslav = b_yaroslav_VOL
-	holding = none
-	1031.1.1 = {
-		holding = church_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5080 = {	#Sanok
-	holding = none
-	981.1.1 = {
-		holding = city_holding
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
 	}
 }
 5081 = {	#Lizhensk
-	holding = none
+	culture = russian
+	religion = slavic_pagan
+	holding = castle_holding
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 }

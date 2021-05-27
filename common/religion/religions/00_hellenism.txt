@@ -1000,7 +1000,7 @@
 			doctrine = doctrine_nymphs_good_free
 			
             doctrine = tenet_scholarship_of_scripture
-            doctrine = tenet_monasticism
+            doctrine = tenet_pseudomonastic
             doctrine = tenet_vows_of_poverty
         }
 		old_misrian_ireneism = { # Nubia
@@ -1107,7 +1107,7 @@
 			doctrine = doctrine_nymphs_neutral_any
 
             doctrine = tenet_gnosticism
-            doctrine = tenet_religious_legal_pronouncements
+            doctrine = tenet_pseudomonastic
             doctrine = tenet_false_conversion_sanction
         }
 		pashtuni_khwarezmian_ireneism = { # Afghanistan and Khwarezm
@@ -1246,9 +1246,340 @@
 			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
 			doctrine = doctrine_nymphs_good_free
 
-			doctrine = tenet_adaptive
+			doctrine = tenet_scholarship_of_scripture
             doctrine = tenet_pacifism
+            doctrine = tenet_pseudomonastic
+        }
+		seaxean_ireneism = { # southern England except for Kent 
+		# Kent follows shayanaic 
+		# Mercia follows mercian_church_of_irene which is more henotheistic 
+		# East Anglia follows valdemarian_common 
+		# the rest of Anglo-Saxon England follows northumbrian_ireneism
+		# Gwynedd follows gwyneddian_ireneism
+		# Powys follows gwerthrynion_ireneism
+		# Deheubarth follows welsh_pagan
+		# Cornwall follows cornish_ireneism
+		# Cumbria follows cumbrian_ireneism in the south
+		# northern Cumbria follows ystrad_clud_ireneism
+            color = { 175 25 45 }
+            icon = latvian_saule_01
+			
+            holy_site = kent # change later
+            holy_site = lesbos
+            holy_site = rome
+            holy_site = alexandria # soissons
+            holy_site = carthage # capital of wessex whatever that is
+
+            doctrine = doctrine_gender_equal
+            doctrine = doctrine_bastardry_none
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+            doctrine = doctrine_consanguinity_restricted
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_free_love
+			
+			# Theology
+			doctrine = doctrine_noble_omnitheism
+			doctrine = doctrine_deities_worshipped_noble_omnilatry
+			doctrine = doctrine_eternal_theogenesis
+			doctrine = doctrine_local_gods_elevated
+			doctrine = doctrine_other_faiths_gods_fully_integrated
+			doctrine = doctrine_angels_good_god
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_none
+
+			doctrine = mz_tenet_great_hunt
+            doctrine = tenet_inner_journey
             doctrine = tenet_monasticism
+        }
+		mercian_church_of_irene = { # Mercia
+		# Kent follows shayanaic 
+		# Mercia follows mercian_church_of_irene which is more henotheistic 
+		# East Anglia follows valdemarian_common 
+		# the rest of Anglo-Saxon England follows northumbrian_ireneism
+		# Gwynedd follows gwyneddian_ireneism
+		# Powys follows gwerthrynion_ireneism
+		# Deheubarth follows welsh_pagan
+		# Cornwall follows cornish_ireneism
+		# Cumbria follows cumbrian_ireneism in the south
+		# northern Cumbria follows ystrad_clud_ireneism
+            color = { 151 89 62 }
+            icon = latvian_auseklis
+			
+            holy_site = kent # london
+            holy_site = lesbos
+            holy_site = rome
+            holy_site = alexandria # soissons
+            holy_site = carthage # warwick
+
+            doctrine = doctrine_gender_equal
+            doctrine = doctrine_bastardry_none
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+            doctrine = doctrine_consanguinity_restricted
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_free_love
+			
+			# Theology
+			doctrine = doctrine_noble_omnitheism
+			doctrine = doctrine_deities_worshipped_henotheism
+			doctrine = doctrine_eternal_theogenesis
+			doctrine = doctrine_local_gods_accepted
+			doctrine = doctrine_other_faiths_gods_accepted
+			doctrine = doctrine_angels_good_god
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_none
+
+			doctrine = tenet_communal_identity
+            doctrine = tenet_inner_journey
+            doctrine = tenet_monasticism
+        }
+		cumbrian_ireneism = { # c_cumberland c_westmoreland c_annandale c_teviotdale
+		# the rest of Anglo-Saxon England follows northumbrian_ireneism
+		# Gwynedd follows gwyneddian_ireneism
+		# Powys follows gwerthrynion_ireneism
+		# Deheubarth follows welsh_pagan
+		# Cornwall follows cornish_ireneism
+		# Cumbria follows cumbrian_ireneism in the south
+		# northern Cumbria follows ystrad_clud_ireneism
+		# brythonic_pagan is followed in the rest of Scotland to represent the Picts
+            color = { 62 89 151 }
+            icon = lithuanian_05
+			
+            holy_site = kent # aeron
+            holy_site = lesbos
+            holy_site = rome
+            holy_site = alexandria # soissons
+            holy_site = carthage # cumberland
+
+            doctrine = doctrine_gender_equal
+            doctrine = doctrine_bastardry_none
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+            doctrine = doctrine_consanguinity_restricted
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_free_love
+			
+			# Theology
+			doctrine = doctrine_noble_omnitheism
+			doctrine = doctrine_deities_worshipped_henotheistic_tradition
+			doctrine = doctrine_eternal_theogenesis
+			doctrine = doctrine_local_gods_accepted
+			doctrine = doctrine_other_faiths_gods_accepted
+			doctrine = doctrine_angels_good_god
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_good_god
+
+			doctrine = tenet_communal_identity
+            doctrine = tenet_sanctity_of_nature
+            doctrine = tenet_pseudomonastic
+        }
+		cornish_ireneism = { # d_cornwall
+		# the rest of Anglo-Saxon England follows northumbrian_ireneism
+		# Gwynedd follows gwyneddian_ireneism
+		# Powys follows gwerthrynion_ireneism
+		# Deheubarth follows welsh_pagan
+		# Cornwall follows cornish_ireneism
+		# northern Cumbria follows ystrad_clud_ireneism
+            color = { 50 50 50 }
+            icon = latvian_krupitis
+			
+            holy_site = kent # 
+            holy_site = lesbos
+            holy_site = rome
+            holy_site = alexandria # soissons
+            holy_site = carthage # cornwall
+
+            doctrine = doctrine_gender_equal
+            doctrine = doctrine_bastardry_none
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+            doctrine = doctrine_consanguinity_restricted
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_free_love # version with extra 1.0 fertility
+			
+			# Theology
+			doctrine = doctrine_noble_omnitheism
+			doctrine = doctrine_deities_worshipped_henotheistic_tradition
+			doctrine = doctrine_eternal_theogenesis
+			doctrine = doctrine_local_gods_integrated
+			doctrine = doctrine_other_faiths_gods_semi_integrated
+			doctrine = doctrine_angels_good_god
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_good_god
+
+			doctrine = tenet_pseudognostic
+            doctrine = mz_tenet_great_hunt
+            doctrine = tenet_inner_journey
+        }
+		northumbrian_ireneism = { # d_lancaster d_york d_northumbria d_lothian
+		# the rest of Anglo-Saxon England follows northumbrian_ireneism
+		# Gwynedd follows gwyneddian_ireneism
+		# Powys follows gwerthrynion_ireneism
+		# Deheubarth follows welsh_pagan
+		# northern Cumbria follows ystrad_clud_ireneism
+            color = { 150 50 50 }
+            icon = estonian_05
+			
+            holy_site = kent # york
+            holy_site = lesbos
+            holy_site = rome
+            holy_site = alexandria # soissons
+            holy_site = carthage # aeron
+
+            doctrine = doctrine_gender_equal
+            doctrine = doctrine_bastardry_none
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+            doctrine = doctrine_consanguinity_restricted
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_free_love # version with extra 1.0 fertility
+			
+			# Theology
+			doctrine = doctrine_noble_omnitheism
+			doctrine = doctrine_deities_worshipped_noble_omnilatry
+			doctrine = doctrine_eternal_theogenesis
+			doctrine = doctrine_local_gods_integrated
+			doctrine = doctrine_other_faiths_gods_semi_integrated
+			doctrine = doctrine_angels_good_god
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_good_god
+
+			doctrine = tenet_inner_journey
+            doctrine = tenet_astrology
+            doctrine = tenet_mendicant_preachers
+        }
+		ystrad_clud_ireneism = { # d_galloway d_strathclyde c_strathearn
+		# Gwynedd follows gwyneddian_ireneism
+		# Powys follows gwerthrynion_ireneism
+		# Deheubarth follows welsh_pagan
+		# northern Cumbria follows ystrad_clud_ireneism
+            color = { 150 50 150 }
+            icon = estonian_08
+			
+            holy_site = kent # galwyddek
+            holy_site = lesbos
+            holy_site = rome
+            holy_site = alexandria # soissons
+            holy_site = carthage # aeron
+
+            doctrine = doctrine_gender_equal
+            doctrine = doctrine_bastardry_none
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+            doctrine = doctrine_consanguinity_restricted
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_free_love # version with extra 1.0 fertility
+			
+			# Theology
+			doctrine = doctrine_noble_omnitheism
+			doctrine = doctrine_deities_worshipped_noble_omnilatry
+			doctrine = doctrine_eternal_theogenesis
+			doctrine = doctrine_local_gods_integrated
+			doctrine = doctrine_other_faiths_gods_fully_integrated
+			doctrine = doctrine_angels_good_god
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_good_god
+
+			doctrine = tenet_communal_identity
+            doctrine = mz_tenet_great_hunt
+            doctrine = tenet_pseudomonastic
+        }
+		gwyneddian_ireneism = { # d_gwynedd
+		# Gwynedd follows gwyneddian_ireneism
+		# Powys follows gwerthrynion_ireneism
+		# Deheubarth follows welsh_pagan
+		# northern Cumbria follows ystrad_clud_ireneism
+            color = { 150 150 150 }
+            icon = estonian_05
+			
+            holy_site = kent # gwynedd
+            holy_site = lesbos
+            holy_site = rome
+            holy_site = alexandria # soissons
+            holy_site = carthage # powys
+
+            doctrine = doctrine_gender_equal
+            doctrine = doctrine_bastardry_none
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+            doctrine = doctrine_consanguinity_restricted
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_free_love
+			
+			# Theology
+			doctrine = doctrine_noble_omnitheism
+			doctrine = doctrine_deities_worshipped_noble_omnilatry
+			doctrine = doctrine_eternal_theogenesis
+			doctrine = doctrine_local_gods_integrated
+			doctrine = doctrine_other_faiths_gods_multipantheonism
+			doctrine = doctrine_angels_good_god
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_good_god
+
+			doctrine = tenet_pseudognostic
+            doctrine = mz_tenet_great_hunt
+            doctrine = tenet_pseudomonastic
+        }
+		gwerthrynion_ireneism = { # d_powys
+		# Gwynedd follows gwyneddian_ireneism
+		# Powys follows gwerthrynion_ireneism
+		# Deheubarth follows welsh_pagan
+		# northern Cumbria follows ystrad_clud_ireneism
+            color = { 25 150 25 }
+            icon = estonian_05
+			
+            holy_site = kent # gwynedd
+            holy_site = lesbos
+            holy_site = rome
+            holy_site = alexandria # soissons
+            holy_site = carthage # powys
+
+            doctrine = doctrine_gender_equal
+            doctrine = doctrine_bastardry_none
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+            doctrine = doctrine_consanguinity_restricted
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_free_love
+			
+			# Theology
+			doctrine = doctrine_noble_omnitheism
+			doctrine = doctrine_deities_worshipped_noble_omnilatry
+			doctrine = doctrine_eternal_theogenesis
+			doctrine = doctrine_local_gods_integrated
+			doctrine = doctrine_other_faiths_gods_universal_pantheon
+			doctrine = doctrine_angels_good_god
+			doctrine = doctrine_hellenic_high_god_lady_irene
+			doctrine = doctrine_hellenic_fall_of_olympus_rebirth
+			doctrine = doctrine_nymphs_good_god
+
+			doctrine = tenet_reincarnation
+            doctrine = mz_tenet_great_hunt
+            doctrine = tenet_ritual_celebrations
         }
 	}
 }

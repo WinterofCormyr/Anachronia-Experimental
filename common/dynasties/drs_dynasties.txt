@@ -801,3 +801,35 @@ drsdyn200 = {
 	name = "von Erfurt"
 	culture = thuringian
 }
+drsdyn201 = { 
+	name = "d'Amigny-Rouny"
+	culture = french
+}
+drsdyn202 = { 
+	name = "d'Ancienville"
+	culture = french
+}
+drsdyn203 = { 
+	name = "Barnarding"
+	culture = neustrian
+}
+drsdyn204 = { 
+	name = "Gotberging"
+	culture = neustrian
+}
+drsdyn205 = { 
+	name = "Siclanding"
+	culture = neustrian
+}
+drsdyn206 = { 
+	name = "Sunning"
+	culture = neustrian
+}
+drsdyn207 = { 
+	name = "Chlotharing"
+	culture = neustrian
+}
+drsdyn208 = { 
+	name = "Ildegarding"
+	culture = neustrian
+}

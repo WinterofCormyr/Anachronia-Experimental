@@ -51,6 +51,8 @@
 
 10127 = {	#TIRANO
 	holding = none
+	culture = carantanian
+	religion = catholic
 }
 
 
@@ -325,9 +327,13 @@
 }
 2498 = {	#BOLZANO
 	holding = castle_holding
+	culture = carantanian
+	religion = catholic
 }
 2495 = {	#VAL CAMONICA
 	holding = none
+	culture = carantanian
+	religion = catholic
 }
 
 ###c_pavia

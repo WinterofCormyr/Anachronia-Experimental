@@ -27,8 +27,17 @@
 }
 
 3731 = {	#Megara
-	holding = church_holding
-	#Set as church_holding to have all 3 holding types
+	holding = castle_holding
+	culture = greek
+	religion = orthodox
+	#Set as castle_holding to have all 3 holding types
+}
+
+9831 = {	#Oropioi
+	holding = castle_holding
+	culture = greek
+	religion = orthodox
+	#Set as castle_holding to have all 3 holding types
 }
 
 ###c_boeotia
@@ -39,9 +48,13 @@
 }
 3727 = {	#Boudounitsa AKA Mendenitsa
 	holding = none
+	culture = greek
+	religion = orthodox
 }
 3729 = {	#Amfissa
-	holding = city_holding
+	holding = castle_holding
+	culture = greek
+	religion = orthodox
 }
 
 ###c_euboea
@@ -52,14 +65,18 @@
 }
 3725 = {	#Skopelos
 	holding = none
+	culture = greek
+	religion = orthodox
 	1050.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 		#Depopulated from the VIIth onwar
 		#Then, started repopulating in the XIth
 	}
 }
 3726 = {	#Oreoi
 	holding = none
+	culture = greek
+	religion = orthodox
 }
 
 ##d_achaia ###################################
@@ -70,18 +87,24 @@
 	holding = castle_holding
 }
 3801 = {	#Vostitsa AKA Aigio
-	holding = city_holding
+	holding = castle_holding
+	culture = greek
+	religion = orthodox
 }
 3737 = {	#Andravida
 	holding = none
+	culture = greek
+	religion = orthodox
 	#Unmentionned before 1205
 }
 3738 = {	#Kalavryta
 	holding = none
+	culture = greek
+	religion = orthodox
 	1066.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 		#Existed some time in the Middle Age (unsure when exactly)
-		#Set as church_holding to have all 3 holding types
+		#Set as castle_holding to have all 3 holding types
 	}
 }
 
@@ -94,48 +117,60 @@
 # 3732 - Nikli
 3732 = {	# 3732 - Nikli
 	culture = greek
-	religion = orthodox
+	religion = arkadian_faith
 	holding = castle_holding
 }
 3798 = {	#Argos
 	holding = castle_holding
+	culture = greek
+	religion = orthodox
 }
 3799 = {	#Damala AKA Troezen
-	holding = church_holding
-	#Set as church_holding to have all 3 holding types
+	holding = castle_holding
+	culture = greek
+	religion = orthodox
+	#Set as castle_holding to have all 3 holding types
 }
 
 ###c_messenia
 3733 = {	#Karytaina
-	culture = helladic
-	religion = orthodox
+	culture = greek
+	religion = arkadian_faith
 	holding = castle_holding
 }
 3734 = {	#Arcadia
-	holding = city_holding
+	holding = castle_holding
+	culture = helladic
+	religion = arkadian_faith
 }
 3800 = {	#Kalamata
 	holding = none
+	culture = helladic
+	religion = arkadian_faith
 	950.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 		#Became important enough to be mentionned in Xth
 	}
 }
 # 477 - Methone
 477 = {	# 477 - Methone
 	culture = helladic
-	religion = orthodox
+	religion = arkadian_faith
 }
 
 ###c_laconia
 3736 = {	#Mistra
 	culture = helladic
-	religion = orthodox
+	religion = arkadian_faith
 	holding = castle_holding
 }
 478 = {		#Monemvasia
-	holding = city_holding
+	holding = castle_holding
+	culture = helladic
+	religion = arkadian_faith
 }
 3735 = {	#Lacedaemonia
 	holding = none
+	culture = helladic
+	religion = arkadian_faith
 }

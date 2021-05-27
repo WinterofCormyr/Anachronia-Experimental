@@ -4,15 +4,15 @@
 	# Misc
 	culture = russian
 	religion = slavic_pagan
+	989.9.15 = {
+		religion = slavonic_ireneism
+	}
 	
 	#holding = castle_holding #Ahistorical? added to give the county a castle
 	
 	#terrain = plains
 	
 	# History
-	989.9.15 = {
-		religion = slavonic_ireneism
-	}
 	#1032.1.1 = {
 	#	#holding = castle_holding
 	#}
@@ -26,7 +26,7 @@
 	culture = russian
 	religion = slavic_pagan
 	
-	holding = tribal_holding
+	holding = castle_holding
 	
 	#terrain = plains
 	
@@ -69,7 +69,7 @@
 	
 	#terrain = wetlands
 	
-	holding = tribal_holding
+	holding = castle_holding
 	935.1.1 = {
 		holding = castle_holding
 	}
@@ -108,7 +108,7 @@
 	culture = russian
 	religion = slavic_pagan
 	
-	holding = tribal_holding
+	holding = castle_holding
 	988.1.2 = {
 		holding = castle_holding
 	}
@@ -132,7 +132,7 @@
 	religion = slavic_pagan
 	
 	#holding = castle_holding
-	holding = tribal_holding
+	holding = castle_holding
 	935.1.1 = {
 		holding = castle_holding
 	}
@@ -177,7 +177,7 @@
 		religion = slavonic_ireneism
 	}
 	1146.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -188,13 +188,13 @@
 	culture = russian
 	religion = slavic_pagan
 	
-	holding = tribal_holding
+	holding = castle_holding
 	
 	#terrain = plains
 	
 	# History
 			990.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 	989.9.15 = {
 		religion = slavonic_ireneism
@@ -239,7 +239,7 @@
 		religion = slavonic_ireneism
 	}
 	1032.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -259,7 +259,7 @@
 		religion = slavonic_ireneism
 	}
 	1078.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 
 }
@@ -316,7 +316,7 @@
 		religion = slavonic_ireneism
 	}
 	1050.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -390,7 +390,7 @@
 		religion = slavonic_ireneism
 	}
 	1180.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -410,7 +410,7 @@
 		religion = slavonic_ireneism
 	}
 	1150.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 
 }
@@ -626,7 +626,7 @@
 	
 	# History
 	946.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 	989.9.15 = {
 		religion = slavonic_ireneism
@@ -650,7 +650,7 @@
 		religion = slavonic_ireneism
 	}
 	1155.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 
 }
@@ -759,7 +759,7 @@
 		religion = slavonic_ireneism
 	}
 	1015.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -777,7 +777,7 @@
 		religion = slavonic_ireneism
 	}
 	1085.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -822,7 +822,7 @@
 	
 	# History
 	950.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 	989.9.15 = {
 		religion = slavonic_ireneism
@@ -843,7 +843,7 @@
 		religion = slavonic_ireneism
 	}
 	1150.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -951,7 +951,7 @@
 	
 	# History
 	988.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 	989.9.15 = {
 		religion = slavonic_ireneism
@@ -973,7 +973,7 @@
 		religion = slavonic_ireneism
 	}
 	1000.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -991,7 +991,7 @@
 		religion = slavonic_ireneism
 	}
 	1152.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -1024,7 +1024,7 @@
 		religion = slavonic_ireneism
 	}
 	1000.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -1065,7 +1065,7 @@
 	culture = russian
 	religion = slavic_pagan
 	
-	holding = tribal_holding
+	holding = castle_holding
 	
 	# History
 	990.1.1 = {
@@ -1091,7 +1091,7 @@
 		religion = slavonic_ireneism
 	}
 	1152.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -1117,7 +1117,7 @@
 	culture = russian
 	religion = slavic_pagan
 	
-	holding = tribal_holding
+	holding = castle_holding
 	
 	# History
 	990.1.1 = {
@@ -1143,7 +1143,7 @@
 		religion = slavonic_ireneism
 	}
 	1147.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -1161,7 +1161,7 @@
 		religion = slavonic_ireneism
 	}
 	1142.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -1191,7 +1191,7 @@
 	
 	# History
 	975.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 	989.9.15 = {
 		religion = slavonic_ireneism
@@ -1287,7 +1287,7 @@
 		religion = slavonic_ireneism
 	}
 	1147.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -1305,7 +1305,7 @@
 		religion = slavonic_ireneism
 	}
 	1150.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -1338,7 +1338,7 @@
 		religion = slavonic_ireneism
 	}
 	1155.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -1356,7 +1356,7 @@
 		religion = slavonic_ireneism
 	}
 	1147.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 
@@ -1395,7 +1395,7 @@
 		culture = russian
 	}
 	1146.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 

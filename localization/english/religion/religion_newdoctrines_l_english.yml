@@ -36,6 +36,8 @@
  doctrine_deities_worshipped_henotheistic_tradition_desc:0 "While we do not judge or reject the exclusive or non-exclusive worship of any Good or Real gods, our religious identity as a faith is defined by the worship of [ROOT.Faith.HighGodName] as our patron and chief deity."
  doctrine_deities_worshipped_highgodcentered_omnilatry_name:0 "[ROOT.Faith.HighGodName]-Centered Omnilatry"
  doctrine_deities_worshipped_highgodcentered_omnilatry_desc:0 "All gods may be worshipped in any manner or degree, so long as [ROOT.Faith.HighGodName] is acknowledged at [ROOT.Faith.HighGodHerHis] rightful place as leader of the divine."
+ doctrine_deities_worshipped_noble_omnilatry_name:0 "Omnilatry of Noble Divinity"
+ doctrine_deities_worshipped_noble_omnilatry_desc:0 "All gods may be worshipped in any manner or degree, for ALL deities ARE indeed Noble and Pure, free of all greater and objective moral imperfections."
  
  doctrine_theogony_name:0 "Theogony"
  doctrine_from_chaos_name:0 "From Chaos"
@@ -110,6 +112,8 @@
  doctrine_pelasgian_high_god_tiriseroe_desc:0 "Tiriseroe is the god of magic and magical forces, and patron of all Pelasgians who practice witchcraft."
  doctrine_pelasgian_high_god_eiraneisseia_name:0 "Eiraneisseia"
  doctrine_pelasgian_high_god_eiraneisseia_desc:0 "Eiraneisseia is the goddess of the night sky, the stars and galaxies above, peace, doves, and angels."
+ doctrine_pelasgian_high_god_britomartis_name:0 "Britomartis"
+ doctrine_pelasgian_high_god_britomartis_desc:0 "Britomartis is the goddess of the hunt, wildlife, plants and animals, nature, storms, thunder, lightning, and the frontier."
  doctrine_pelasgian_high_god_none_name:0 "No Supreme Deity"
  doctrine_pelasgian_high_god_none_desc:0 "Our gods are equal, and none is truly greater than another. A person's patron deity should be chosen by them and them alone."
  incompatible_doctrine_witchcraft_shunned_or_criminal_trigger:0 "Incompatible with any [doctrine|E] that makes witchcraft [shunned|E] or [criminal|E]"

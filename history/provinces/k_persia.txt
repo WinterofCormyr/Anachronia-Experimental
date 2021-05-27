@@ -114,22 +114,52 @@
 	}
 }
 4077 = {	#Zarand_PER
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	
+	930.1.1 = {
+		religion = kirman_school
+	}
 	#Rich & important city in the islamic period
 }
 4078 = {	#Kirman		#AKA Kerman
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	
+	930.1.1 = {
+		religion = kirman_school
+	}
 	#Important and thriving place since early Sasanian period
 }
 4079 = {	#Anar
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	
+	930.1.1 = {
+		religion = kirman_school
+	}
 	#City already existed in pre-islamic times
 }
 4080 = {	#Rudhan
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	
+	930.1.1 = {
+		religion = kirman_school
+	}
 }
 4081 = {	#Mashiz
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	
+	930.1.1 = {
+		religion = kirman_school
+	}
 }
 
 ###c_behabad
@@ -143,13 +173,31 @@
 	}
 }
 4072 = {	#Nayband	#AKA Nay Band, Naiband
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = mazdayasna
+	holding = castle_holding
+	
+	945.1.1 = {
+		religion = kirman_school
+	}
 }
 4074 = {	#Khubayan
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
+	
+	945.1.1 = {
+		religion = kirman_school
+	}
 }
 4075 = {	#Rawar
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
+	
+	945.1.1 = {
+		religion = kirman_school
+	}
 }
 
 ###c_bam
@@ -163,16 +211,40 @@
 	}
 }
 4082 = {	#Kashid
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = persic_ireneism
+	holding = castle_holding
+	
+	945.1.1 = {
+		religion = kirman_school
+	}	#placeholder
 }
 4084 = {	#Dardjiin
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	
+	945.1.1 = {
+		religion = kirman_school
+	}
 }
 4085 = {	#Nurmashiir
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = persic_ireneism
+	holding = castle_holding
+	
+	945.1.1 = {
+		religion = kirman_school
+	}	#placeholder
 }
 4086 = {	#Dafariid
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	
+	945.1.1 = {
+		religion = kirman_school
+	}
 }
 
 ###c_sirjan
@@ -187,10 +259,24 @@
 	}
 }
 4087 = {	#Bimand
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = mazdayasna
+	holding = castle_holding
+	790.1.1 = { religion = persic_ireneism }
+	
+	945.1.1 = {
+		religion = kirman_school
+	}	#placeholder
 }
 4092 = {	#Baaft
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = mazdayasna
+	holding = castle_holding
+	790.1.1 = { religion = persic_ireneism }
+	
+	945.1.1 = {
+		religion = kirman_school
+	}	#placeholder
 }
 
 ###c_jiruft
@@ -205,10 +291,24 @@
 	}
 }
 4090 = {	#Maghun
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = mazdayasna
+	holding = castle_holding
+	790.1.1 = { religion = persic_ireneism }
+	
+	945.1.1 = {
+		religion = kirman_school
+	}	#placeholder
 }
 4091 = {	#Ruyan-Jirufti
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
+	790.1.1 = { religion = persic_ireneism }
+	
+	945.1.1 = {
+		religion = kirman_school
+	}
 }
 
 ##d_yazd ###################################
@@ -222,22 +322,47 @@
 	}
 }
 4051 = {	#Nain	#AKA Na'in
+	culture = persian
+	religion = mazdayasna	
 	holding = castle_holding
+	1060.1.1 = {
+		religion = persic_ireneism
+	}
 	#One of the first mosques in muslim Persia
 }
 4052 = {	#Uqda
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	1060.1.1 = {
+		religion = persic_ireneism
+	}
 }
 4054 = {	#Maibud		#AKA Meybod
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	1060.1.1 = {
+		religion = persic_ireneism
+	}
 	#One of the oldest castles and capitals in Iran
 }
 4055 = {	#Fahraj_yazd
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	1060.1.1 = {
+		religion = persic_ireneism
+	}
 	#Founded during the Sasanian empire
 }
 4056 = {	#Khazana
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	1060.1.1 = {
+		religion = persic_ireneism
+	}
 }
 
 ###c_mafaza
@@ -250,7 +375,12 @@
 	}
 }
 4058 = {	#Wandah
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	1060.1.1 = {
+		religion = persic_ireneism
+	}	#placeholder
 }
 4060 = {	#Mihrijan
 	culture = persian
@@ -262,6 +392,11 @@
 }
 4061 = {	#Biyaqad
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	1060.1.1 = {
+		religion = persic_ireneism
+	}
 }
 
 ###c_shahre-babak
@@ -272,22 +407,39 @@
 	800.1.1 = { religion = persic_ireneism }
 }
 4097 = {	#Muralziyan
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	800.1.1 = { 
+		religion = persic_ireneism	#placeholder
+	}
 }
 4098 = {	#Abarquh	#AKA Abarkuh 
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	800.1.1 = { 
+		religion = persic_ireneism	#placeholder
+	}
 }
 4099 = {	#Qaryat-al-Asad
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	800.1.1 = { 
+		religion = persic_ireneism	#placeholder
+	}
 }
 
 ##d_rayy ###################################
 ###c_rayy
 4319 = {	#Rayy
+	holding = castle_holding
 	culture = persian
 	religion = mazdayasna
-	holding = castle_holding
-	864.1.1 = { religion = pashtuni_khwarezmian_ireneism }
+	864.1.1 = { 
+		religion = pashtuni_khwarezmian_ireneism
+	}
 	1066.1.1 = {
 		buildings = {
 			pastures_01
@@ -298,15 +450,35 @@
 }
 4318 = {	#Dumbawand	#AKA Damavand
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	864.1.1 = { 
+		religion = pashtuni_khwarezmian_ireneism
+	}
 }
 4320 = {	#Waramin	#AKA Varamin / Varena
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	864.1.1 = { 
+		religion = pashtuni_khwarezmian_ireneism
+	}
 }
 4321 = {	#Mashkuya
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	864.1.1 = { 
+		religion = pashtuni_khwarezmian_ireneism
+	}
 }
 4322 = {	#Qasran
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	864.1.1 = { 
+		religion = pashtuni_khwarezmian_ireneism
+	}
 }
 
 ###c_khuwar
@@ -320,6 +492,11 @@
 }
 4045 = {	#Simnan		#AKA Semnan
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	1060.1.1 = {
+		religion = persic_ireneism
+	}
 	#already existed in ancient Persia
 }
 
@@ -331,9 +508,13 @@
 }
 4110 = {	#Aba-Qomi
 	holding = castle_holding
+	culture = persian
+	religion = persic_ireneism
 }
 4111 = {	#Sawa	#AKA Saveh
 	holding = castle_holding
+	culture = persian
+	religion = persic_ireneism
 	#Very ancient city
 }
 
@@ -349,16 +530,40 @@
 	}
 }
 4331 = {	#Rudhrawar
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = persic_ireneism
+	holding = castle_holding
+	
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}	#placeholder
 }
 4328 = {	#Aba
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 4329 = {	#Mazdaqan
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = persic_ireneism
+	holding = castle_holding
+	
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}	#placeholder
 }
 4330 = {	#Sharuq
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 
 ###c_nihawand
@@ -371,10 +576,20 @@
 	}
 }
 4114 = {	#Abtaa
+	culture = persian
+	religion = persic_ireneism
 	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 4115 = {	#Karaj-abu-Dulad
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = persic_ireneism
+	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}	#placeholder
 }
 
 ###c_dinawar
@@ -387,13 +602,31 @@
 	}
 }
 4763 = {	#Andarab
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = persian
+	religion = persic_ireneism
+	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}	#placeholder
 }
 4764 = {	#Sad Khaniya
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = persian
+	religion = persic_ireneism
+	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}	#placeholder
 }
 4765 = {	#Sanda
 	holding = castle_holding
+	culture = persian
+	religion = persic_ireneism
+	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 
 ##d_fars ###################################
@@ -405,17 +638,29 @@
 	800.1.1 = { religion = persic_ireneism }
 }
 4176 = {	#Sarwistan-Shirazi-Runiz
-	holding = castle_holding	#placeholder
+	culture = persian
+	religion = mazdayasna
+	holding = castle_holding
+	800.1.1 = { religion = persic_ireneism }	#placeholder
 }
 4178 = {	#Kubanjan
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	800.1.1 = { religion = persic_ireneism }
 }
 4179 = {	#Kazarun	#AKA Kazerun
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	800.1.1 = { religion = persic_ireneism }
 	#Founded under the Sasanian Empire, became an important trade center later
 }
 4180 = {	#Sabur	#AKA Bishapur
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	800.1.1 = { religion = persic_ireneism }
 	#Founded as a capital by Shapur I of the Sasanians
 }
 
@@ -431,10 +676,22 @@
 }
 4094 = {	#Gerash
 	holding = castle_holding
+	culture = kurdish
+	religion = persic_ireneism
+	1160.1.1 = {
+		religion = persic_ireneism
+		culture = persian
+	}
 	#Left empty so players have to "fill" the county themselves
 }
 4095 = {	#Jahrum	#AKA Jahrom
 	holding = castle_holding
+	culture = kurdish
+	religion = persic_ireneism
+	1160.1.1 = {
+		religion = persic_ireneism
+		culture = persian
+	}
 	#Dates from the era of the Achaemenids
 }
 
@@ -443,22 +700,26 @@
 	culture = kurdish
 	religion = persic_ireneism
 	holding = castle_holding
-	1160.1.1 = {
-		religion = persic_ireneism
-		
-	}
 }
 4172 = {	#Fustujan
+	culture = kurdish
+	religion = persic_ireneism
 	holding = castle_holding	#placeholder
 }
 4173 = {	#Nariz
 	holding = castle_holding
+	culture = kurdish
+	religion = persic_ireneism
 }
 4174 = {	#Istakhbanat
 	holding = castle_holding
+	culture = kurdish
+	religion = persic_ireneism
 }
 4175 = {	#Abade-Darabjerd
 	holding = castle_holding
+	culture = kurdish
+	religion = persic_ireneism
 }
 
 ###c_arrajan
@@ -469,21 +730,30 @@
 	800.1.1 = { religion = persic_ireneism }
 }
 4301 = {	#Jannaba
-	holding = castle_holding	#placeholder
+	culture = lurish
+	religion = mazdayasna
+	holding = castle_holding
+	800.1.1 = { religion = persic_ireneism }
 }
 4302 = {	#Siniz
+	culture = lurish
+	religion = mazdayasna
 	holding = castle_holding
-	933.1.1 = {
-		holding = castle_holding
-	}
+	800.1.1 = { religion = persic_ireneism }
 	#Rich port until it was destroyed during the Qarmatians
 }
 4303 = {	#Tawwaj	#AKA Tavvaz
+	culture = lurish
+	religion = mazdayasna
 	holding = castle_holding
+	800.1.1 = { religion = persic_ireneism }
 	#Likely built in ancient persia, served as a prosperous city & fort
 }
 4304 = {	#Khubadan
+	culture = lurish
+	religion = mazdayasna
 	holding = castle_holding
+	800.1.1 = { religion = persic_ireneism }
 }
 
 ###c_istakhr
@@ -491,23 +761,27 @@
 	culture = persian
 	religion = persic_ireneism
 	holding = castle_holding
-	1160.1.1 = {
-		religion = persic_ireneism
-		culture = persian
-	}
 }
 4117 = {	#Iqlid	#AKA Eqlid
 	holding = castle_holding
+	culture = persian
+	religion = persic_ireneism
 	#Already built and somewhat important in ancient Persia
 }
 4119 = {	#Mayin
 	holding = castle_holding
+	culture = persian
+	religion = persic_ireneism
 }
 4120 = {	#Abraj
 	holding = castle_holding
+	culture = persian
+	religion = persic_ireneism
 }
 4121 = {	#Abada	#AKA Abadeh
 	holding = castle_holding
+	culture = persian
+	religion = persic_ireneism
 	#Existed in ancient Persia, set as church_holding to have all 3 holding types pre-built
 }
 
@@ -521,22 +795,39 @@
 	}
 }
 4197 = {	#Bushkanat	#AKA Bushehr
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
+	1337.1.1 = {
+		religion = persic_ireneism
+	}
 	#Important coastal trade city from ancient times
 }
 4198 = {	#Gundijan
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
+	1337.1.1 = {
+		religion = persic_ireneism
+	}
 }
 4199 = {	#Firuzabad
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
-	970.1.1 = {
-		holding = castle_holding
+	1337.1.1 = {
+		religion = persic_ireneism
 	}
 	#Ruined during the arab invasions
 	#Only "revived" in 950-980
 }
 4200 = {	#Karzin
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
+	1337.1.1 = {
+		religion = persic_ireneism
+	}
 	#Set as church_holding to have all 3 types of holdings pre-built in the county
 }
 
@@ -550,11 +841,21 @@
 	}
 }
 4194 = {	#Siraf
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
+	1337.1.1 = {
+		religion = persic_ireneism
+	}
 	#Busy trade port on the Silk Road from early on
 }
 4196 = {	#Kariyan	#AKA Karyan
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
+	1337.1.1 = {
+		religion = persic_ireneism
+	}
 }
 
 ##d_hormuz ###################################
@@ -578,9 +879,15 @@
 }
 4186 = {	#Shahru
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	790.1.1 = { religion = persic_ireneism }
 }
 4187 = {	#Laft
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	790.1.1 = { religion = persic_ireneism }
 }
 
 ###c_sif-i-umara
@@ -596,16 +903,28 @@
 	}
 }
 4188 = {	#Kaurestan
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	790.1.1 = { religion = persic_ireneism }
 }
 4189 = {	#Beiram	#AKA Beyram
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	790.1.1 = { religion = persic_ireneism }
 }
 4190 = {	#Dun
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	790.1.1 = { religion = persic_ireneism }
 }
 4192 = {	#Dazuk
 	holding = castle_holding
+	culture = persian
+	religion = mazdayasna
+	790.1.1 = { religion = persic_ireneism }
 }
 
 ##d_khuzestan ###################################
@@ -620,16 +939,40 @@
 	}
 }
 6009 = {	#Al-Madhar
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = iraqi
+	religion = mazdakism
+	867.1.1 = {
+		religion = persic_ireneism
+		
+	}
 }
 6010 = {	#Basinna
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = iraqi
+	religion = mazdakism
+	867.1.1 = {
+		religion = persic_ireneism
+		
+	}
 }
 6012 = {	#Huwaiza
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = iraqi
+	religion = mazdakism
+	867.1.1 = {
+		religion = persic_ireneism
+		
+	}
 }
 6015 = {	#Jubba
 	holding = castle_holding
+	culture = iraqi
+	religion = mazdakism
+	867.1.1 = {
+		religion = persic_ireneism
+		
+	}
 }
 
 ###c_sardan
@@ -640,9 +983,13 @@
 }
 4123 = {	#Aruj
 	holding = castle_holding
+	culture = lurish
+	religion = persic_ireneism
 }
 4124 = {	#Samshiborid
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = lurish
+	religion = persic_ireneism
 }
 
 ###c_ramhurmuz
@@ -653,13 +1000,22 @@
 	800.1.1 = { religion = persic_ireneism }
 }
 4307 = {	#Asak
+	culture = lurish
+	religion = mazdayasna
 	holding = castle_holding
+	800.1.1 = { religion = persic_ireneism }
 }
 4309 = {	#Idhaj	#AKA Izeh
+	culture = lurish
+	religion = mazdayasna
 	holding = castle_holding
+	800.1.1 = { religion = persic_ireneism }
 }
 4306 = {	#Dariyan
-	holding = castle_holding	#placeholder
+	culture = lurish
+	religion = mazdayasna
+	holding = castle_holding
+	800.1.1 = { religion = persic_ireneism }
 }
 
 ###c_tustar
@@ -670,13 +1026,19 @@
 }
 4257 = {	#Gondishapur	#AKA Gundeshapur
 	holding = castle_holding
+	culture = lurish
+	religion = persic_ireneism
 	#Important center during the muslim period (and probably before)
 }
 4258 = {	#Bazoh
 	holding = castle_holding
+	culture = lurish
+	religion = persic_ireneism
 }
 4259 = {	#Dizful		#AKA Dezful
 	holding = castle_holding
+	culture = lurish
+	religion = persic_ireneism
 	#Ancient fortified city, even capital of Elam Empire
 }
 # 4786 - AS-SAIMARA
@@ -696,9 +1058,13 @@
 }
 6016 = {	#Bayan
 	holding = castle_holding	#placeholder
+	culture = neo_sumerian
+	religion = sumerian_pagan
 }
 6018 = {	#Basiyan
 	holding = castle_holding	#placeholder
+	culture = neo_sumerian
+	religion = sumerian_pagan
 }
 
 ###c_dawraq
@@ -709,7 +1075,11 @@
 	867.1.1 = { religion = persic_ireneism }
 }
 6013 = {	#Azam
-	holding = castle_holding	#placeholder
+	holding = castle_holding
+	culture = lurish
+	religion = mazdakism
+	holding = castle_holding
+	867.1.1 = { religion = persic_ireneism }
 }
 
 ##d_kermanshah ###################################
@@ -723,13 +1093,28 @@
 	}
 }
 4782 = {	#Kerend-Kermanshah		#AKA Keren-e Gharb
+	culture = kurdish
+	religion = meshefaresism
 	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 4783 = {	#Tazar
+	culture = kurdish
+	religion = meshefaresism
 	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 4784 = {	#Bisutun	#AKA Beshitun
+	culture = kurdish
+	religion = meshefaresism
 	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 
 ###c_masabadhan
@@ -742,10 +1127,20 @@
 	}
 }
 4262 = {	#Alishtar
-	holding = castle_holding		#placeholder
+	culture = kurdish
+	religion = meshefaresism
+	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 4785 = {	#Arivajan
+	culture = kurdish
+	religion = meshefaresism
 	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 
 ###c_saimara
@@ -758,8 +1153,18 @@
 	}
 }
 4260 = {	#Andamish
-	holding = castle_holding	#placeholder
+	culture = lurish
+	religion = meshefaresism
+	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }
 4261 = {	#Saburkhawasht
+	culture = lurish
+	religion = meshefaresism
 	holding = castle_holding
+	1000.1.1 = {
+		religion = kurdish_aitahism
+	}
 }

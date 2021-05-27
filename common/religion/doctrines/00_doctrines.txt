@@ -1616,6 +1616,11 @@ doctrine_deities_worshipped = {
 			value = faith_doctrine_cost_none
 		}	
 	}
+	doctrine_deities_worshipped_noble_omnilatry = {
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}	
+	}
 }
 doctrine_theogony = {
 	group = "clergy"
@@ -1791,6 +1796,11 @@ doctrine_pelasgian_high_god = {
 		}	
 	}
 	doctrine_pelasgian_high_god_hermahas = { # hermahas # the god of merchants and thieves
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+	}
+	doctrine_pelasgian_high_god_britomartis = { # britomartis # goddess of the hunt and of nature # think artemis plus kynareth with a bit of hircine and thor but feminine
 		piety_cost = { 
 			value = faith_doctrine_cost_none
 		}

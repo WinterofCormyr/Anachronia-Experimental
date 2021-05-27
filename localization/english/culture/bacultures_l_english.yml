@@ -101,6 +101,7 @@
  neocimmerian:0 "Neocimmerian"
  kal_obish:0 "Kal'Obish"
  pontic:0 "Pódii"
+ neustrian:0 "Neustrian"
  
  neo_sumerian:0 "Neo-Sumerian"
  neo_sumerian_collective_noun:0 "Neo-Sumerians"
@@ -205,6 +206,7 @@
  neocimmerian_collective_noun:0 "Neocimmerians"
  kal_obish_collective_noun:0 "Kal'Obians"
  pontic_collective_noun:0 "Pódii"
+ neustrian_collective_noun:0 "Neustrians"
  
  #Groups
  aegean_group:0 "Aegean"

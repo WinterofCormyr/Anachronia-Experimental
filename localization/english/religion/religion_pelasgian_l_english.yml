@@ -12,6 +12,9 @@
  pelasgian_high_god_name_alternate_possessive:0 "The Goddess's"
  pelasgian_good_god_rainbow_goddess:0 "The Rainbow Goddess"
  pelasgian_good_god_britomartis:0 "Britomartis"
+ pelasgian_good_god_britomartis_name_possessive:0 "Britomartis's"
+ pelasgian_good_god_artemis:0 "Artemis"
+ pelasgian_good_god_artemis_name_possessive:0 "Artemis's"
  pelasgian_good_god_elutia:0 "Elutia"
  pelasgian_good_god_qerasia:0 "Qerasia"
  pelasgian_good_god_preswa:0 "Preswa"
@@ -70,6 +73,12 @@
  high_cybelite_adherent:0 "High Cybelite"
  high_cybelite_adherent_plural:0 "High Cybelites"
  high_cybelite_desc:0 "The High Cybelite faith is perhaps the most well known and commonly practiced of the Cybelite faiths. It stems from Pelasgian and Iliite traditions, and is common in many regions of western Anatolia. The tradition has absorbed many local gods and goddesses into its pantheon, but primarily worships a Cybele with aspects of the Hattian goddess Wurunshemu, as a solar deity and queen of the gods."
+ 
+ arkadian_faith:0 "Church of Britomartis"
+ arkadian_faith_adj:0 "Britomartisian"
+ arkadian_faith_adherent:0 "Britomartisite"
+ arkadian_faith_adherent_plural:0 "Britomartisites"
+ arkadian_faith_desc:0 "The Church of Britomartis is a Pelasgian faith from the regions of Arkadia and Sparta in southern Hellas, centering around its chief goddess Britomartis."
  
  lelegic_cybelite:0 "Lelegic Cybelism"
  lelegic_cybelite_adj:0 "Lelegic"

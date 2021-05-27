@@ -30,6 +30,9 @@ k_france = { # different holder # a dynasty stretching from 867 # becoming vassa
 	1013.1.1 = {
 		liege = e_france # Highprincess Aphrodite I de Léchelle
 	}
+	1023.1.1 = {
+		holder = drskfrance0072 # Andrâste II de Léchelle
+	}
 }
 d_vermandois = {
 	867.1.1 = {	change_development_level = 8 }
@@ -91,5 +94,92 @@ c_vermandois = {
 	1013.1.1 = {
 		liege = d_vermandois
 		holder = drsfrance0001 # Amalie dEstrees
+	}
+}
+
+##k_normandia ruled by Neustrian NEW CULTURE ALERT petty kings in 867 # with a Norman kingdom forming around 900
+
+
+d_avranches = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		liege = 0
+		holder = drsavranchesneustria0001 # Queen Rusticula Barnarding of West Neustria
+	}
+	900.1.1 = {
+		liege = k_normandia
+		holder = 0 # replace with the Norman king
+	}
+}
+d_caen = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		liege = 0
+		holder = drscaenneustria0001 # Queen Burgundofara Gotberging of Westshore
+	}
+	900.1.1 = {
+		liege = k_normandia
+		holder = 0 # replace with the Norman king
+	}
+}
+d_eu = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		liege = 0
+		holder = drseuneustria0001 # King Theutbald Sunning of the Neustrian Shore
+	}
+	900.1.1 = {
+		liege = k_normandia # he keeps his title as duke but NOT as king # MAKE TITULAR TITLES LOL # line rules for a good while and PRESERVES NEUSTRIAN CULTURE
+	}
+}
+d_lisieux = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		liege = 0
+		holder = drslisieuxneustria0001 # Queen Amidala Siclanding of the Neustrian Hearthland
+	}
+	900.1.1 = {
+		liege = k_normandia 
+		holder = 0 # replace with the Norman king
+	}
+}
+d_mortain = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		liege = 0
+		holder = drsmortainneustria0001 # Duke Maurifi Chlotharing of Mortain
+	}
+	900.1.1 = {
+		liege = k_normandia 
+		holder = 0 # replace with the Norman king
+	}
+}
+d_normandy = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	840.1.1 = {
+		liege = 0
+		holder = drscoreneustria0001 # Queen Marcatrude Ildegarding of Inner Neustria
+	}
+	900.1.1 = {
+		liege = k_normandia 
+		holder = 0 # replace with the Norman king
+	}
+}
+d_vexin = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	840.1.1 = {
+		liege = 0
+		holder = drscoreneustria0001 # Queen Marcatrude Ildegarding of Inner Neustria
+	}
+	900.1.1 = {
+		liege = k_normandia 
+		holder = 0 # replace with the Norman king
 	}
 }

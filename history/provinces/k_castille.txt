@@ -18,9 +18,15 @@
 }
 1907 = {	# ATAPUERCA
 	holding = none
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 1908 = {	# LERMA
-	holding = church_holding
+	holding = castle_holding
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 1905 = {	# PALENCIA
 	holding = castle_holding
@@ -42,13 +48,19 @@
 }
 1896 = {	# SIMANCAS
 	holding = none
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 	
 	1066.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 1898 = {	# ARANDA DE DUERO
-	holding = church_holding
+	holding = castle_holding
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 
 ###c_soria
@@ -64,13 +76,22 @@
 	936.1.1 = { culture = castilian }
 }
 1899 = {	# SAN ESTEBAN
-	holding = church_holding
+	holding = castle_holding
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 1900 = {	# OSMA
-	holding = city_holding
+	holding = castle_holding
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 1909 = {	# SAN LEONARDO DE YAGUE
 	holding = none
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 
 ###c_cuellar
@@ -85,10 +106,16 @@
 	936.1.1 = { culture = castilian }
 }
 1925 = {	# CUELLAR
-	holding = church_holding
+	holding = castle_holding
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 1926 = {	# UCEDA
-	holding = city_holding
+	holding = castle_holding
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 
 ###c_olmedo
@@ -104,9 +131,12 @@
 }
 1922 = {	# CORACERA
 	holding = none
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = asturleonese }
 	
 	1066.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -122,17 +152,26 @@
 	}
 }
 1802 = {	# SANTANDER
-	holding = city_holding
+	holding = castle_holding
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 1815 = {	# REINOSA
 	holding = none
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 	
 	1066.1.1 = {
-		holding = church_holding
+		holding = castle_holding
 	}
 }
 1812 = {	# MEDINA DE POMAR
 	holding = none
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
 
 ###c_amaya
@@ -147,9 +186,15 @@
 	945.1.1 = { culture = castilian }
 }
 1813 = {	# MIRANDA DE EBRO
-	holding = city_holding
+	holding = castle_holding
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 	
 }
 1904 = {	# SEDANO
-	holding = church_holding
+	holding = castle_holding
+	culture = visigothic
+	religion = firner_situic
+	936.1.1 = { culture = castilian }
 }
