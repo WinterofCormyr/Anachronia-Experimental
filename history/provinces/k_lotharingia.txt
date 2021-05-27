@@ -431,6 +431,8 @@
 }
 2681 = {	#BILSTEIN
 	holding = none
+	culture = saxon
+	religion = allemanian_ireneism
 }
 
 ###c_mark
@@ -441,9 +443,13 @@
 }
 2678 = {	#HAGEN
 	holding = none
+	culture = saxon
+	religion = allemanian_ireneism
 }
 2676 = {	#HUKESWAG
 	holding = none
+	culture = saxon
+	religion = allemanian_ireneism
 	1066.1.1 = {
 		holding = city_holding
 	}
@@ -486,10 +492,14 @@
 }
 2690 = {	#WIED
 	holding = none
+	culture = franconian
+	religion = allemanian_ireneism
 }
 2691 = {	#ISENBURG
 	holding = none
+	culture = franconian
+	religion = allemanian_ireneism
 	1100.1.1 = {
-		holding = city_holding
+		holding = castle_holding
 	}
 }

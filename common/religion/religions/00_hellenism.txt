@@ -986,7 +986,7 @@
             doctrine = doctrine_clerical_function_taxation
             doctrine = doctrine_clerical_gender_either
 			doctrine = doctrine_witchcraft_accepted
-			doctrine = doctrine_valdemarian_polygamy
+			doctrine = doctrine_gallian_polygamy
 			
 			# Theology
 			doctrine = doctrine_noble_omnitheism

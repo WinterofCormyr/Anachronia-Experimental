@@ -5,10 +5,91 @@ e_france = {
 		holder = drsfrance0001 # Amalie dEstrees
 	}
 }
+
+#### BEGIN k_france ####
+
+k_france = { # different holder # a dynasty stretching from 867 # becoming vassals to the high kingdom in 1013
+	867.1.1 = {	
+		change_development_level = 8
+		holder = drskfrance0001 # King Raimbaut I de Léchelle
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	903.1.1 = {
+		holder = drskfrance0003 # King Ïalonnosse I de Léchelle
+	}
+	950.1.1 = {
+		holder = drskfrance0017 # Queen Andrâste Irène I de Léchelle
+	}
+	958.1.1 = {
+		holder = drskfrance0039 # Queen Aphrodite I de Léchelle
+	}
+	1066.1.1 = { change_development_level = 21 }
+	1013.1.1 = {
+		liege = e_france # Highprincess Aphrodite I de Léchelle
+	}
+}
+d_vermandois = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	867.1.1 = {	
+		change_development_level = 8
+		holder = drskfrance0001 # King Raimbaut de Léchelle
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	890.1.1 = {
+		liege = k_france
+		holder = drskfrance0015 # Duke Artaë Mansyrubiens
+	}
+	901.1.1 = {
+		holder = drsmansyrubiens0002 # Duchess Noire Mansyrubiens
+	}
+	913.1.1 = {
+		holder = drsmansyrubiens0004 # Duchess Gaie-Érècquère Mansyrubiens
+	}
+	# 1013 Petty Queen Gaie-Érècquère Mansyrubiens
+	1028.1.1 = {
+		holder = drsmansyrubiens0007 # Petty King Théodoric de Savigny-le-Temple
+	}
+	1063.1.1 = {
+		holder = drsmansyrubiens0013 # Petty Queen Yvesse de Savigny-le-Temple
+	}
+	1077.1.1 = {
+		holder = drsmansyrubiens0022 # Petty Queen Cérès de Savigny-le-Temple
+	}
+	1118.1.1 = {
+		holder = drsmansyrubiens0040 # Petty King Orson de Savigny-le-Temple
+	}
+}
+d_valois = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	867.1.1 = {	
+		liege = k_france
+		change_development_level = 8
+		holder = drskfrance0001 # King Raimbaut de Léchelle
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	903.1.1 = {
+		holder = drskfrance0003 # King Ïalonnosse de Léchelle
+	}
+	935.1.1 = {
+		holder = drskfrance0030 # Duke Antisthène de la Ville des Rêves
+	}
+}
 c_vermandois = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 21 }
 	1013.1.1 = {
+		liege = d_vermandois
 		holder = drsfrance0001 # Amalie dEstrees
 	}
 }

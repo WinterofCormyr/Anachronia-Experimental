@@ -54,9 +54,69 @@ drssorbia0004 = {
 		birth = yes
 	}
 	820.1.1 = {
-		add_spouse = drssorbia0001 # Aeta Crabatovsce # children are of house Crabatovsce
+		add_spouse = drssorbia0001 # Aeta Crabatovsce # children are of house Aetavsce
 	}
 	835.1.1 = {
+		death = yes
+	}
+}
+drssorbia0005 = {
+	name = "Marja" # inherits k_sorbia and d_meissen
+	female = yes
+	dynasty = drsdyn69 # Blancavsce
+	religion = aelonist_aitahism
+	culture = sorbian
+	father = drssorbia0002 # Cheschjimer Blancavsce
+	mother = drssorbia0001 # Aeta Crabatovsce
+	821.1.1 = {
+		birth = yes
+	}
+	901.1.1 = {
+		death = yes
+	}
+}
+drssorbia0006 = {
+	name = "Trudla" # inherits d_anhalt
+	female = yes
+	dynasty = drsdyn68 # Crabatovsce
+	religion = aelonist_aitahism
+	culture = sorbian
+	father = drssorbia0003 # Arnosht
+	mother = drssorbia0001 # Aeta Crabatovsce
+	822.1.1 = {
+		birth = yes
+	}
+	902.1.1 = {
+		death = yes
+	}
+}
+drssorbia0007 = {
+	name = "Ruzalca" # inherits d_lausitz
+	female = yes
+	dynasty = drsdyn70 # Aetavsce
+	religion = aelonist_aitahism
+	culture = sorbian
+	father = drssorbia0004 # Aellof Aetavsce
+	mother = drssorbia0001 # Aeta Crabatovsce
+	823.1.1 = {
+		birth = yes
+	}
+	903.1.1 = {
+		death = yes
+	}
+}
+drssorbia0008 = {
+	name = "Lydija" # inherits c_vogtland
+	female = yes
+	dynasty = drsdyn70 # Aetavsce
+	religion = aelonist_aitahism
+	culture = sorbian
+	father = drssorbia0004 # Aellof Aetavsce
+	mother = drssorbia0001 # Aeta Crabatovsce
+	824.1.1 = {
+		birth = yes
+	}
+	904.1.1 = {
 		death = yes
 	}
 }

@@ -698,6 +698,106 @@ drsdyn174 = {
 	culture = pontic
 }
 drsdyn175 = { 
-	name = "d'Estrées" 
+	name = "d'Estrées-lès-Crécy" 
 	culture = french
+}
+drsdyn176 = { 
+	name = "de Léchelle" 
+	culture = french
+}
+drsdyn177 = { 
+	name = "de Lizines" 
+	culture = french
+}
+drsdyn178 = { 
+	name = "de Longueville" 
+	culture = french
+}
+drsdyn179 = { 
+	name = "de Louan-Villegruis-Fontaine" 
+	culture = french
+}
+drsdyn180 = { 
+	name = "de Luisetaines" 
+	culture = french
+}
+drsdyn181 = { 
+	name = "de Les Marêts" 
+	culture = french
+}
+drsdyn182 = { 
+	name = "de Meigneux" 
+	culture = french
+}
+drsdyn183 = { 
+	name = "de Nandy" 
+	culture = french
+}
+drsdyn184 = { 
+	name = "de Pringy" 
+	culture = french
+}
+drsdyn185 = { 
+	name = "de Savigny-le-Temple" 
+	culture = french
+}
+drsdyn186 = { 
+	name = "de Vert-Saint-Denis" 
+	culture = french
+}
+drsdyn187 = { 
+	name = "de Bailly-Romainvilliers" 
+	culture = french
+}
+drsdyn188 = { 
+	name = "de Chessy"
+	culture = french
+}
+drsdyn189 = { 
+	name = "de Couilly-Pont-aux-Dames"
+	culture = french
+}
+drsdyn190 = { 
+	name = "de Coulommes"
+	culture = french
+}
+drsdyn191 = { 
+	name = "de Coutevroult"
+	culture = french
+}
+drsdyn192 = { 
+	name = "de Crécy-la-Chapelle"
+	culture = french
+}
+drsdyn193 = { 
+	name = "de Tigeaux"
+	culture = french
+}
+drsdyn194 = { 
+	name = "de Cleyzieu"
+	culture = french
+}
+drsdyn195 = { 
+	name = "d'Ambérieu"
+	culture = french
+}
+drsdyn196 = { 
+	name = "de Foissiat"
+	culture = french
+}
+drsdyn197 = { 
+	name = "d'Évosges"
+	culture = french
+}
+drsdyn198 = { 
+	name = "de Géovreisset"
+	culture = french
+}
+drsdyn199 = { 
+	name = "de Varambon"
+	culture = french
+}
+drsdyn200 = { 
+	name = "von Erfurt"
+	culture = thuringian
 }

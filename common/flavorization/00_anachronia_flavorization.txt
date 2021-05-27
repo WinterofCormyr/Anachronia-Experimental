@@ -166,7 +166,7 @@ title_high_queen_france = { # High Queen
 	titles = { e_france }
 	top_liege = yes
 }
-title_high_queendom_france = { # High Queen
+title_high_queendom_france = { # High Queendom
 	type = title
 	tier = empire
 	titles = { e_france }
@@ -196,5 +196,102 @@ title_high_principality_france = { # High Principality
 	tier = kingdom
 	titles = { e_france }
 	priority = 160
+	top_liege = yes
+}
+title_petty_king_france = { # Petty King
+	type = character
+	tier = duchy
+	gender = male
+	special = holder
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_petty_queen_france = { # Petty Queen
+	type = character
+	tier = duchy
+	gender = female
+	special = holder
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_pettycrown_france = { # Pettycrown
+	type = title
+	tier = duchy
+	titles = { e_france }
+	priority = 160
+	top_liege = yes
+}
+title_seigneur_high_king_france = { # Seigneur # son of a High King of France
+	type = character
+	tier = empire
+	gender = male
+	special = ruler_child
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_dame_high_queen_france = { # Dame # daughter of a High Queen of France
+	type = character
+	tier = empire
+	gender = female
+	special = ruler_child
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_seigneur_highprince_france = { # Seigneur # son of a French Highprince
+	type = character
+	tier = kingdom
+	gender = male
+	special = ruler_child
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_dame_highprincess_france = { # Dame # daughter of a French Highprincess
+	type = character
+	tier = kingdom
+	gender = female
+	special = ruler_child
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_seigneur_pettyking_france = { # Seigneur # son of a French Petty King
+	type = character
+	tier = duchy
+	gender = male
+	special = ruler_child
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_dame_pettyqueen_france = { # Dame # daughter of a French Petty Queen
+	type = character
+	tier = duchy
+	gender = female
+	special = ruler_child
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_seigneur_count_france = { # Seigneur # son of a French Count
+	type = character
+	tier = county
+	gender = male
+	special = ruler_child
+	priority = 160
+	titles = { e_france }
+	top_liege = yes
+}
+title_dame_countess_france = { # Dame # daughter of a French Countess
+	type = character
+	tier = county
+	gender = female
+	special = ruler_child
+	priority = 160
+	titles = { e_france }
 	top_liege = yes
 }

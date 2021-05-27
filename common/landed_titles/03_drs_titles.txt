@@ -91,12 +91,6 @@ d_temple_of_azeroth = {
 	always_follows_primary_heir = yes
 	destroy_if_invalid_heir = yes
 }
-k_sorbia = {
-	color = { 201 147 2 }
-	color2 = { 0 0 0 }
-
-	capital = c_meissen
-}
 k_luticy = {
 	color = { 22 57 233 }
 	color2 = { 0 0 0 }

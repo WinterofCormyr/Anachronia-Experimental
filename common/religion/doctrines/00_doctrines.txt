@@ -60,6 +60,27 @@
 			no_unfaithfulness_penalty_active = yes
 		}
 	}
+	
+	doctrine_gallian_polygamy = {
+		piety_cost = {
+			value = faith_doctrine_cost_none
+		}
+		can_pick = {
+			custom_description = {
+				text = ADULTERY_MUST_BE_FULLY_ACCEPTED
+				NOR = {
+					flag:doctrine_adultery_women_crime = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_women_shunned = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_men_crime = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_men_shunned = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+		parameters = {
+			number_of_spouses = 10
+			no_unfaithfulness_penalty_active = yes
+		}
+	}
 
 	
 	doctrine_hattian_bigamy = {

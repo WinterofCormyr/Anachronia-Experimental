@@ -342,35 +342,15 @@
 		color = { 0.5 0.6 0.8 }
 
 		cadet_dynasty_names = {
-			# Currently shared with Pommeranian
-			"dynn_Obroditen"
-			"dynn_Gryfita"
-			{ "dynnp_z" "dynn_Liubic" }
-			"dynn_S_wiE_ca"
-			"dynn_GrzymaL_a"
-			"dynn_JastrzE_biec"
-			"dynn_L_odzia"
-			"dynn_Lubicz"
-			"dynn_NaL_E_cz"
-			"dynn_Gniewosz"
-			{ "dynnp_z" "dynn_Roztoki" }
-			{ "dynnp_ze" "dynn_SL_upska" }
+			"Crabatovsce"
+			"Blancavsce"
+			"Aetavsce"
 		}
 
 		dynasty_names = {
-			# Currently shared with Pommeranian
-			"dynn_Obroditen"
-			"dynn_Gryfita"
-			{ "dynnp_z" "dynn_Liubic" }
-			"dynn_S_wiE_ca"
-			"dynn_GrzymaL_a"
-			"dynn_JastrzE_biec"
-			"dynn_L_odzia"
-			"dynn_Lubicz"
-			"dynn_NaL_E_cz"
-			"dynn_Gniewosz"
-			{ "dynnp_z" "dynn_Roztoki" }
-			{ "dynnp_ze" "dynn_SL_upska" }
+			"Crabatovsce"
+			"Blancavsce"
+			"Aetavsce"
 		}
 
 		male_names = { # add more later from behind the name submitted sorbian names # alternate variants where every j is an i

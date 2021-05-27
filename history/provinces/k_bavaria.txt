@@ -191,6 +191,8 @@ holding = none
 }
 2986 = {	#LENGENFELD
 	holding = none
+		culture = bavarian
+	religion = allemanian_ireneism
 }
 2988 = {	#SULZBACH
 		culture = bavarian
@@ -198,7 +200,9 @@ holding = none
 	holding = castle_holding
 }
 2991 = {	#NEUMARKT
-	holding = city_holding
+	holding = castle_holding
+		culture = bavarian
+	religion = allemanian_ireneism
 }
 
 ###c_hohenburg
@@ -329,13 +333,19 @@ holding = none
 }
 2779 = {	#FRIEDBERG
 	holding = none
+	culture = swabian
+	religion = allemanian_ireneism
 	#1264
 }
 2780 = {	#LECHRAIN
 	holding = none
+	culture = swabian
+	religion = allemanian_ireneism
 }
 2784 = {	#KAUFBEUREN
-	holding = city_holding
+	holding = castle_holding
+	culture = swabian
+	religion = allemanian_ireneism
 }
 
 ###c_alpsee
@@ -345,10 +355,14 @@ holding = none
 	holding = castle_holding
 }
 2781 = {	#PEITING
-	holding = city_holding
+	holding = castle_holding
+	culture = swabian
+	religion = allemanian_ireneism
 }
 2790 = {	#HOHENSCHWANGAU
 	holding = none
+	culture = swabian
+	religion = allemanian_ireneism
 }
 
 ###c_kempten
@@ -363,7 +377,9 @@ holding = none
 	holding = castle_holding
 }
 2785 = {	#MEMMINGEN
-	holding = city_holding
+	holding = castle_holding
+	culture = swabian
+	religion = allemanian_ireneism
 }
 
 ###c_ravensburg
@@ -386,9 +402,8 @@ holding = none
 }
 2775 = {	#KIRCHBERG
 	holding = none
-	1000.1.1 = {
-		holding = church_holding
-	}
+	culture = swabian
+	religion = allemanian_ireneism
 }
 
 ##d_steyermark ###################################

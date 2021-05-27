@@ -24,3 +24,13 @@ house_Bar_Nabha = {
 	
 	dynasty = drsdyn21 #Bar Isaac
 }
+house_Mansyrubiens = {
+	name = "Mansyrubiens"
+	
+	dynasty = drsdyn176 # de Léchelle
+}
+house_LManberg = {
+	name = "de la Ville des Rêves"
+	
+	dynasty = drsdyn176 # de Léchelle
+}

@@ -198,3 +198,8 @@
  doctrine_nymphs_neutral_monotheistic_name:0 "Neutral Nymph Spirits"
  doctrine_nymphs_neutral_monotheistic_desc:0 "Nymphs are a species of spirits who can be aligned either with [ROOT.Faith.HighGodName], [ROOT.Faith.DevilName], or not aligned at all."
  
+ doctrine_gallian_polygamy_name:0 "Gallian Polygamy"
+ doctrine_gallian_polygamy_desc:0 "The first Medium who founded our faith during the fall of Rome declared that people of any gender may consensually take up to, but never exceeding, ten official spouses or consorts, which may be of any gender, and we have followed that way ever since. Her following decree declared jealousy as a sin, and as such, extramarital lovers are freely allowed as well."
+ 
+ # Gallian Ireneist Good Gods
+ gallian_ireneism_good_god_helios:0 "Hélios"

@@ -6,25 +6,88 @@ e_germany = { # de jure k_switzerland # de jure k_austria controls # new k_lutic
 	}
 }
 
+#### START SAXONY ####
+
+d_thuringia = {
+	861.1.1 = {
+		holder = drsthuringia0001 # Kriemhild von Erfurt
+	}
+}
 #### START SORBIA ####
 
 k_sorbia = {
-	866.1.1 = {
-		de_jure_liege = e_germany
+	820.1.1 = {
+		holder = drssorbia0001 # Aeta Crabatovsce
+	}
+	862.1.1 = {
+		holder = drssorbia0005 # Marja Blancavsce
+	}
+	#866.1.1 = {
+	#	de_jure_liege = e_germany
+	#}
+}
+d_meissen = {
+	820.1.1 = {
+		holder = drssorbia0001 # Aeta Crabatovsce
+	}
+	862.1.1 = {
+		holder = drssorbia0005 # Marja Blancavsce
+	}
+	#866.1.1 = {
+	#	de_jure_liege = k_sorbia
+	#}
+}
+c_meissen = {
+	820.1.1 = {
+		holder = drssorbia0001 # Aeta Crabatovsce
+	}
+	862.1.1 = {
+		holder = drssorbia0005 # Marja Blancavsce
+	}
+}
+c_vogtland = {
+	820.1.1 = {
+		holder = drssorbia0001 # Aeta Crabatovsce
+	}
+	862.1.1 = {
+		holder = drssorbia0008 # Lydija Aetavsce, Countess of Vogtland
 	}
 }
 d_anhalt = {
-	866.1.1 = {
-		de_jure_liege = k_sorbia
+	820.1.1 = {
+		holder = drssorbia0001 # Aeta Crabatovsce
 	}
+	862.1.1 = {
+		holder = drssorbia0006 # Trudla Crabatovsce
+	}
+	#866.1.1 = {
+	#	de_jure_liege = k_sorbia
+	#}
 }
-d_meissen = {
-	866.1.1 = {
-		de_jure_liege = k_sorbia
+c_wittenberg = {
+	820.1.1 = {
+		holder = drssorbia0001 # Aeta Crabatovsce
+	}
+	862.1.1 = {
+		holder = drssorbia0006 # Trudla Crabatovsce
 	}
 }
 d_lausitz = {
-	866.1.1 = {
-		de_jure_liege = k_sorbia
+	820.1.1 = {
+		holder = drssorbia0001 # Aeta Crabatovsce
+	}
+	862.1.1 = {
+		holder = drssorbia0007 # Ruzalca Aetavsce
+	}
+	#866.1.1 = {
+	#	de_jure_liege = k_sorbia
+	#}
+}
+c_juterbog = {
+	820.1.1 = {
+		holder = drssorbia0001 # Aeta Crabatovsce
+	}
+	862.1.1 = {
+		holder = drssorbia0007 # Ruzalca Aetavsce
 	}
 }
