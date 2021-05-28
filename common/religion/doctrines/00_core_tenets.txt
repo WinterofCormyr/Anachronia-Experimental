@@ -2535,6 +2535,29 @@
 			negate_health_penalty_add = 0.25
 		}
 	}
+	tenet_holy_sky = {
+		icon = core_tenet_birdofprey
+
+		piety_cost = {
+			value = faith_tenet_cost_none
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_sky_burials }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		parameters = {
+			sky_burials_active = yes
+			summer_festivals_active = yes
+			trial_by_sun_active = yes
+		}
+
+		character_modifier = {
+			negate_health_penalty_add = 0.25
+		}
+	}
 
 	tenet_sun_worship = {
 		icon = core_tenet_skyshaman
@@ -2566,8 +2589,6 @@
 			desert_attrition_mult = -0.25
 			desert_mountains_attrition_mult = -0.25
 		}
-
-		piety_cost = faith_tenet_cost_none
 	}
 
 	tenet_warmonger = {
@@ -2625,6 +2646,55 @@
 		character_modifier = {
 			ai_war_chance = 0.5
 			ai_war_cooldown = -0.25
+		}
+	}
+
+	tenet_free_dominion = {
+		icon = core_tenet_sword
+		piety_cost = {
+			if = {
+				limit = {
+					OR = {
+						religion_tag = buddhism_religion
+						religion_tag = jainism_religion
+						religion_tag = taoism_religion
+					}
+				}
+				value = faith_tenet_cost_none
+			}
+			else = {
+				value = faith_tenet_cost_none
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_warmonger }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_pacifism_trigger
+				NOT = { flag:tenet_pacifism = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_dharmic_pacifism_trigger
+				NOT = { flag:tenet_dharmic_pacifism = { is_in_list = selected_doctrines } }
+			}
+		}
+
+		parameters = {
+			warmonger = yes
+			conquest_cb_enabled = yes
+			invasion_cb_enabled = yes
+			other_culture_conversion_penalty_active = yes
+		}
+		
+		character_modifier = {
+			ai_war_chance = 0.5
+			ai_war_cooldown = -0.25
+			opinion_of_different_faith = 15
 		}
 	}
 

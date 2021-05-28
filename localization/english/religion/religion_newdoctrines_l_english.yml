@@ -202,8 +202,37 @@
  doctrine_nymphs_neutral_monotheistic_name:0 "Neutral Nymph Spirits"
  doctrine_nymphs_neutral_monotheistic_desc:0 "Nymphs are a species of spirits who can be aligned either with [ROOT.Faith.HighGodName], [ROOT.Faith.DevilName], or not aligned at all."
  
+ # Ascendant
+ doctrine_ascendant_name:0 "Ascendant"
+ doctrine_aitahism_ascendant_name:0 "Aitahism Ascendant"
+ doctrine_aitahism_ascendant_desc:0 "Aitahism is quite influential to our faith, and its reverence for childbirth is an important principle we should follow."
+ doctrine_seshweayan_ascendant_name:0 "Seshweayan Ascendant"
+ doctrine_seshweayan_ascendant_desc:0 "Seshweayan traditional religion is quite influential to our faith, and its honoring of power and strength is an important principle we should follow."
+ doctrine_hellenic_ascendant_name:0 "Hellenic Ascendant"
+ doctrine_hellenic_ascendant_desc:0 "Hellenic traditional religion is quite influential to our faith, and its honoring of civilization and culture is an important principle we should follow."
+ doctrine_tengri_ascendant_name:0 "Tengri Ascendant"
+ doctrine_tengri_ascendant_desc:0 "Tengrism is quite influential to our faith, and its honoring of mysticism and esotericism is an important principle we should follow."
+ doctrine_finnougric_ascendant_name:0 "Finno-Ugric Ascendant"
+ doctrine_finnougric_ascendant_desc:0 "Finno-Ugric traditional religion is quite influential to our faith, and its honoring of elders and ancestors is an important principle we should follow."
+ doctrine_ireneist_ascendant_name:0 "Ireneist Ascendant"
+ doctrine_ireneist_ascendant_desc:0 "Ireneism is quite influential to our faith, and its reverence for peace is an important principle we should follow."
+ 
+ tenet_free_dominion_name:0 "Free Dominion"
+ tenet_free_dominion_desc:0 "Our faith is our own, and [ROOT.Faith.HighGodName] does not command for it to be spread. But [ROOT.Faith.HighGodName] *has* declared that we are granted worldly power and dominion over the followers of other faiths, and we must seize that power in [ROOT.Faith.HighGodName]'s name."
+ 
+ tenet_holy_sky_name:0 "Holy Sky"
+ tenet_holy_sky_desc:0 "The sky above is sacred and divine, and from the sky all things come and will return to, in the beginning and in the end."
+ 
  doctrine_gallian_polygamy_name:0 "Gallian Polygamy"
  doctrine_gallian_polygamy_desc:0 "The first Medium who founded our faith during the fall of Rome declared that people of any gender may consensually take up to, but never exceeding, ten official spouses or consorts, which may be of any gender, and we have followed that way ever since. Her following decree declared jealousy as a sin, and as such, extramarital lovers are freely allowed as well."
+
+ doctrine_allemanian_free_love_name:0 "Allemanian Free Love"
+ doctrine_allemanian_free_love_desc:0 "As is tradition in the region of Allemania, people of any gender or social status may consensually take up to, twenty-five official spouses or consorts, which may be of any gender or social status relative to the person. Jealousy is considered a sin, and as such, extramarital lovers are freely allowed as well."
+
+ doctrine_polyamorous_trigamy_name:0 "Polyamorous Trigamy"
+ doctrine_polyamorous_trigamy_desc:0 "People may take up to three spouses, but are permitted to have mutually consensual extramarital relationships outside of that."
+ doctrine_polyamorous_hexagamy_name:0 "Polyamorous Hexagamy"
+ doctrine_polyamorous_hexagamy_desc:0 "People may take up to six spouses, but are permitted to have mutually consensual extramarital relationships outside of that."
  
  # Gallian Ireneist Good Gods
  gallian_ireneism_good_god_helios:0 "Hélios"

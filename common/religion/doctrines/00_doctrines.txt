@@ -108,6 +108,50 @@
 	}
 
 	
+	doctrine_polyamorous_trigamy = {
+		piety_cost = {
+			value = faith_doctrine_cost_none
+		}
+		can_pick = {
+			custom_description = {
+				text = ADULTERY_MUST_BE_FULLY_ACCEPTED
+				NOR = {
+					flag:doctrine_adultery_women_crime = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_women_shunned = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_men_crime = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_men_shunned = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+		parameters = {
+			number_of_spouses = 3
+			no_unfaithfulness_penalty_active = yes
+		}
+	}
+
+	
+	doctrine_polyamorous_hexagamy = {
+		piety_cost = {
+			value = faith_doctrine_cost_none
+		}
+		can_pick = {
+			custom_description = {
+				text = ADULTERY_MUST_BE_FULLY_ACCEPTED
+				NOR = {
+					flag:doctrine_adultery_women_crime = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_women_shunned = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_men_crime = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_men_shunned = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+		parameters = {
+			number_of_spouses = 6
+			no_unfaithfulness_penalty_active = yes
+		}
+	}
+
+	
 	doctrine_free_love = {
 		piety_cost = {
 			value = faith_doctrine_cost_none
@@ -125,6 +169,29 @@
 		}
 		parameters = {
 			number_of_spouses = 100
+			no_unfaithfulness_penalty_active = yes
+		}
+	}
+
+
+	
+	doctrine_allemanian_free_love = {
+		piety_cost = {
+			value = faith_doctrine_cost_none
+		}
+		can_pick = {
+			custom_description = {
+				text = ADULTERY_MUST_BE_FULLY_ACCEPTED
+				NOR = {
+					flag:doctrine_adultery_women_crime = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_women_shunned = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_men_crime = { is_in_list = selected_doctrines }
+					flag:doctrine_adultery_men_shunned = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+		parameters = {
+			number_of_spouses = 25
 			no_unfaithfulness_penalty_active = yes
 		}
 	}
@@ -2041,6 +2108,68 @@ doctrine_nymphs = {
 	doctrine_nymphs_neutral_monotheistic = { # nymphs are a species of spirits who can be aligned either with [ROOT.Faith.HighGodName], [ROOT.Faith.DevilName], or not aligned at all.
 		piety_cost = { 
 			value = faith_doctrine_cost_none
+		}
+	}
+}
+doctrine_ascendant = { # sorta like syncretism, but without the opinion or hostility changes # there is NO doctrine_no_ascendant # daiths with no ascendant have their own main religion category as their ascendant
+	group = "clergy"
+	
+	doctrine_aitahism_ascendant = { # sacred childbirth but less major
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+		parameters = {
+			safer_childbirths_active = yes
+		}
+	}
+	doctrine_seshweayan_ascendant = { # tenet_pursuit_of_power but less major # mesopotamian_aitahism has this
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+
+		traits = {
+			virtues = {
+				ambitious
+			}
+			sins = {
+				content
+			}
+		}
+	}
+	doctrine_hellenic_ascendant = { # mz_tenet_civilized but less major
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+
+		character_modifier = {
+			monthly_lifestyle_xp_gain_mult = 0.1
+		}
+	}
+	doctrine_tengri_ascendant = { # tenet_esotericism but less major
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+
+		parameters = {
+			tenet_esotericism_mystic_education = yes
+		}
+	}
+	doctrine_finnougric_ascendant = { # tenet_ancestor_worship but less major
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+
+		parameters = {
+			increased_dynasty_prestige_long_reign_mult = 0.5
+		}
+	}
+	doctrine_ireneist_ascendant = { # tenet_pacifism but less major
+		piety_cost = { 
+			value = faith_doctrine_cost_none
+		}
+
+		parameters = {
+			piety_from_long_peace = 1
 		}
 	}
 }

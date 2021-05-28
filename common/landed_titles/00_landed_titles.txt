@@ -7051,7 +7051,7 @@ e_germany = {
 		}
 		
 		
-		d_lauenburg = {
+		d_lauenburg = { # polabian Culture aelonist_aitahism Religion duchy from 867 onward 
 			color = { 150 110 125 }
 			color2 = { 255 255 255 }
 		
