@@ -845,3 +845,35 @@ drsdyn211 = {
 	name = "uab Ruatirch"
 	culture = pictish
 }
+drsdyn212 = { 
+	name = "av Astera og Kernos"
+	culture = norman
+}
+drsdyn213 = { 
+	name = "Marcatruding"
+	culture = neustrian
+}
+drsdyn214 = { 
+	name = "de Blérancourt"
+	culture = french
+}
+drsdyn215 = { 
+	name = "Childeberting"
+	culture = neustrian
+}
+drsdyn216 = { 
+	name = "de Bayeux"
+	culture = norman
+}
+drsdyn217 = { 
+	name = "de Cormolain"
+	culture = norman
+}
+drsdyn218 = { 
+	name = "de Cossesseville"
+	culture = norman
+}
+drsdyn219 = { 
+	name = "de Cottun"
+	culture = norman
+}

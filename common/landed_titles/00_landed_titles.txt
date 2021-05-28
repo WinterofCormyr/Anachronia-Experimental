@@ -54116,7 +54116,7 @@ e_france = {
 		}
 		
 	}
-	k_north_burgundy = {
+	k_north_burgundy = { # k_north_burgundy controls d_nevers and d_burgundy in 867 # with an independent d_upper_burgundy # united under the descendant of the ruler of d_nevers and d_burgundy by 936
 		color = { 159 20 58 }
 		color2 = { 255 255 255 }
 		capital = c_dijon

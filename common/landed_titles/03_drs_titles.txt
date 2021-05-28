@@ -115,3 +115,33 @@ k_albidoss = { # d_aberdeen d_albany
 
 	capital = c_mearns
 }
+k_west_neustria = { # d_avranches
+	color = { 129 129 129 }
+	color2 = { 0 0 0 }
+
+	capital = c_avranches
+}
+k_westshore = { # d_caen
+	color = { 100 100 129 }
+	color2 = { 0 0 0 }
+
+	capital = c_caen
+}
+k_neustrian_shore = { # d_eu
+	color = { 68 236 230 }
+	color2 = { 0 0 0 }
+
+	capital = c_eu
+}
+k_neustrian_hearthland = { # d_lisieux
+	color = { 128 54 140 }
+	color2 = { 0 0 0 }
+
+	capital = c_lisieux
+}
+k_inner_neustria = { # d_normandy and d_vexin
+	color = { 200 200 0 }
+	color2 = { 0 0 0 }
+
+	capital = c_evreux
+}

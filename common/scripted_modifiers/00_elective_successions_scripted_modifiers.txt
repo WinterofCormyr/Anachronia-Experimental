@@ -3058,7 +3058,7 @@ elector_voting_pattern_circumstances_francien_elective_modifier = {
 	}
 	#Ageism
 	modifier = {
-		add = -50
+		add = -1000
 		desc = tooltip_feudal_elector_vote_baby
 		NOT = { this = scope:candidate }
 		scope:candidate = {
@@ -3073,30 +3073,31 @@ elector_voting_pattern_circumstances_francien_elective_modifier = {
 			age < 16
 		}
 		add = {
-			subtract = 20
-			if = {
-				limit = {
-					age < 10
-				}
-				subtract = 15
-			}
+			subtract = 1000
 		}
 	}
 	modifier = { #younger rulers are favored as long as they are adults
-		add = 50
+		add = 100
 		desc = tooltip_feudal_elector_vote_youngster
 		NOT = { this = scope:candidate }
-		age > 40
 		scope:candidate = {
-			age > 16
-			age < 25
+			age > 21
+			age < 30
+		}
+	}
+	modifier = { #younger rulers are favored as long as they are adults
+		add = 300
+		desc = tooltip_feudal_elector_vote_youngster
+		NOT = { this = scope:candidate }
+		scope:candidate = {
+			age > 17
+			age < 22
 		}
 	}
 	modifier = { #Or too old for younger rulers.
-		add = -25
+		add = -100
 		desc = tooltip_feudal_elector_vote_oldtimer
 		NOT = { this = scope:candidate }
-		age < 30
 		scope:candidate = {
 			age > 40
 			age < 100

@@ -99,53 +99,206 @@ c_vermandois = {
 
 ##k_normandia ruled by Neustrian NEW CULTURE ALERT petty kings in 867 # with a Norman kingdom forming around 900
 
+#
+##### BEGIN k_normandia #####
+#
 
-d_avranches = {
+k_normandia = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		holder = 0
+	}
+	900.1.1 = {
+		holder = drs900normandia0001 # Norman invasion
+		succession_laws = {
+			scandinavian_elective_succession_law
+			equal_law
+		}
+	}
+	960.1.1 = {
+		holder = drs900normandia0003 # Norman av Astera og Kernos
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	981.1.1 = {
+		holder = drs900normandia0020 # Lambert av Astera og Kernos
+	}
+	1002.1.1 = {
+		holder = drs900normandia0022 # Adelaide av Astera og Kernos
+	}
+	1013.1.1 = {
+		liege = e_france
+	}
+	# 1013 swears fealty to the Medium ruler of e_france # becoming a highprincipality in France
+	1026.1.1 = {
+		holder = drs900normandia0033 # Eleanor av Astera og Kernos
+	}
+	1070.1.1 = {
+		holder = drs900normandia0044 # Lancelin av Astera og Kernos
+	}
+	# 1092 new ruling dynasty
+}
+k_west_neustria = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 21 }
 	861.1.1 = {
 		liege = 0
 		holder = drsavranchesneustria0001 # Queen Rusticula Barnarding of West Neustria
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	900.1.1 = {
+		holder = 0 # Norman invasion
+	}
+}
+d_avranches = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		liege = k_west_neustria
+		holder = drsavranchesneustria0001 # Queen Rusticula Barnarding of West Neustria
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
 	}
 	900.1.1 = {
 		liege = k_normandia
-		holder = 0 # replace with the Norman king
+		holder = drs900normandia0001 # Rollo av Astera og Kernos
+		succession_laws = {
+			scandinavian_elective_succession_law
+			equal_law
+		}
+	}
+	960.1.1 = {
+		holder = drs900normandia0003 # Norman av Astera og Kernos
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	# 961 new duke norman gallian_ireneism
+}
+k_westshore = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		liege = 0
+		holder = drscaenneustria0001 # Queen Burgundofara Gotberging of Westshore
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	900.1.1 = {
+		holder = 0 # Norman Invasion
 	}
 }
 d_caen = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 21 }
 	861.1.1 = {
-		liege = 0
+		liege = k_westshore
 		holder = drscaenneustria0001 # Queen Burgundofara Gotberging of Westshore
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
 	}
 	900.1.1 = {
 		liege = k_normandia
-		holder = 0 # replace with the Norman king
+		holder = drs900normandia0001 # Rollo av Astera og Kernos
+		succession_laws = {
+			scandinavian_elective_succession_law
+			equal_law
+		}
+	}
+	960.1.1 = {
+		holder = drs900normandia0003 # Norman av Astera og Kernos
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	# 961 new duchess norman gallian_ireneism
+}
+k_neustrian_shore = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		liege = 0
+		holder = drseuneustria0001 # King Theutbald Sunning of the Neustrian Shore
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	900.1.1 = {
+		holder = 0 # he keeps his title as duke but NOT as king # MAKE TITULAR TITLES LOL # line rules for a good while and PRESERVES NEUSTRIAN CULTURE
 	}
 }
 d_eu = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 21 }
 	861.1.1 = {
-		liege = 0
+		liege = k_neustrian_shore
 		holder = drseuneustria0001 # King Theutbald Sunning of the Neustrian Shore
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
 	}
 	900.1.1 = {
 		liege = k_normandia # he keeps his title as duke but NOT as king # MAKE TITULAR TITLES LOL # line rules for a good while and PRESERVES NEUSTRIAN CULTURE
+	}
+}
+k_neustrian_hearthland = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	861.1.1 = {
+		liege = 0
+		holder = drslisieuxneustria0001 # Queen Amidala Siclanding of the Neustrian Hearthland
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	900.1.1 = {
+		holder = 0 # Norman Invasion
 	}
 }
 d_lisieux = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 21 }
 	861.1.1 = {
-		liege = 0
+		liege = k_neustrian_hearthland
 		holder = drslisieuxneustria0001 # Queen Amidala Siclanding of the Neustrian Hearthland
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
 	}
 	900.1.1 = {
 		liege = k_normandia 
-		holder = 0 # replace with the Norman king
+		holder = drs900normandia0001 # Rollo av Astera og Kernos
+		succession_laws = {
+			scandinavian_elective_succession_law
+			equal_law
+		}
 	}
+	960.1.1 = {
+		holder = drs900normandia0003 # Norman av Astera og Kernos
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	# 961 new duchess norman gallian_ireneism
 }
 d_mortain = {
 	867.1.1 = {	change_development_level = 8 }
@@ -153,33 +306,133 @@ d_mortain = {
 	861.1.1 = {
 		liege = 0
 		holder = drsmortainneustria0001 # Duke Maurifi Chlotharing of Mortain
+		## NON ELECTIVE SUCCESSION
 	}
 	900.1.1 = {
 		liege = k_normandia 
-		holder = 0 # replace with the Norman king
+		holder = drs900normandia0001 # Rollo av Astera og Kernos
+		## NON ELECTIVE SUCCESSION
+	}
+	960.1.1 = {
+		holder = drs900normandia0003 # Norman av Astera og Kernos
+	}
+	# 961 new duke norman gallian_ireneism
+}
+k_inner_neustria = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	840.1.1 = {
+		liege = 0
+		holder = drscoreneustria0001 # Queen Marcatrude Ildegarding of Inner Neustria
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	900.1.1 = {
+		holder = 0 # Norman Invasion
 	}
 }
 d_normandy = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 21 }
 	840.1.1 = {
-		liege = 0
+		liege = k_inner_neustria
 		holder = drscoreneustria0001 # Queen Marcatrude Ildegarding of Inner Neustria
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
 	}
 	900.1.1 = {
 		liege = k_normandia 
-		holder = 0 # replace with the Norman king
+		holder = drs900normandia0001 # Rollo av Astera og Kernos
+		succession_laws = {
+			scandinavian_elective_succession_law
+			equal_law
+		}
 	}
+	960.1.1 = {
+		holder = drs900normandia0003 # Norman av Astera og Kernos
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	981.1.1 = {
+		holder = drs900normandia0020 # Lambert av Astera og Kernos
+	}
+	1002.1.1 = {
+		holder = drs900normandia0022 # Adelaide av Astera og Kernos
+	}
+	1026.1.1 = {
+		holder = drs900normandia0033 # Eleanor av Astera og Kernos
+	}
+	1070.1.1 = {
+		holder = drs900normandia0044 # Lancelin av Astera og Kernos
+	}
+	# 1092 new ruling dynasty
 }
 d_vexin = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 21 }
 	840.1.1 = {
-		liege = 0
+		liege = k_inner_neustria
 		holder = drscoreneustria0001 # Queen Marcatrude Ildegarding of Inner Neustria
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
 	}
 	900.1.1 = {
 		liege = k_normandia 
-		holder = 0 # replace with the Norman king
+		holder = drs900normandia0001 # Rollo av Astera og Kernos
+		succession_laws = {
+			scandinavian_elective_succession_law
+			equal_law
+		}
+	}
+	960.1.1 = {
+		holder = drs900normandia0003 # Norman av Astera og Kernos
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	# 961 new duchess norman gallian_ireneism
+}
+#								 #
+##### BEGIN k_north_burgundy #####
+#								 #
+
+k_north_burgundy = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	840.1.1 = {
+		# holder
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	1013.1.1 = {
+		liege = e_france
+	}
+}
+
+d_upper_burgundy = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 21 }
+	840.1.1 = {
+		liege = 0
+		# holder
+		succession_laws = {
+			francien_elective_succession_law
+			equal_law
+		}
+	}
+	920.1.1 = {
+		# holding dynasty stays the same
+		liege = k_north_burgundy 
 	}
 }

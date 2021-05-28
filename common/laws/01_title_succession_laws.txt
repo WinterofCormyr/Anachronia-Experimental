@@ -99,7 +99,10 @@
 		}
 		can_pass = {
 			can_change_title_law_trigger = yes
-			has_culture_group = culture_group:north_germanic_group
+			OR = {
+				has_culture_group = culture_group:north_germanic_group
+				has_culture = culture:norman
+			}
 		}
 		can_title_have = {
 			can_title_have_law_general_trigger = yes
