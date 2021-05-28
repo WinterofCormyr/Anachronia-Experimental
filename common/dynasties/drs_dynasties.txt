@@ -833,3 +833,15 @@ drsdyn208 = {
 	name = "Ildegarding"
 	culture = neustrian
 }
+drsdyn209 = { 
+	name = "ach Bride"
+	culture = pictish
+}
+drsdyn210 = { 
+	name = "uab Taran"
+	culture = pictish
+}
+drsdyn211 = { 
+	name = "uab Ruatirch"
+	culture = pictish
+}

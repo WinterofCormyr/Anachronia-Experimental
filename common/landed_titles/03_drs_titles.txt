@@ -109,3 +109,9 @@ k_anatolian_lakes = {
 
 	capital = c_neapolis
 }
+k_albidoss = { # d_aberdeen d_albany
+	color = { 0 100 200 }
+	color2 = { 0 0 0 }
+
+	capital = c_mearns
+}
