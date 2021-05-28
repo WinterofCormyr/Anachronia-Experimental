@@ -306,6 +306,12 @@
 	religion = cumbrian_ireneism
 }
 
+10104 = {	#Wigton
+	holding = none
+	culture = cumbrian
+	religion = cumbrian_ireneism
+}
+
 ###c_cheshire
 1643 = {	#Chester
 	culture = anglo_saxon
@@ -404,6 +410,8 @@
 
 1500 = {	#Yarlestre
 	holding = none
+	culture = anglo_saxon
+	religion = northumbrian_ireneism
 }
 
 ###c_east_riding

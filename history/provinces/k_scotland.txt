@@ -597,6 +597,42 @@
 	religion = gaelic_pagan
 	#Castle built in the XIIIth century
 }
+10099 = {	#Assynt
+	holding = none
+	culture = gaelic
+	religion = gaelic_pagan
+	#Castle built in the XIIIth century
+}
+10100 = {	#Tayn
+	holding = none
+	culture = gaelic
+	religion = gaelic_pagan
+	#Castle built in the XIIIth century
+}
+8775 = {	#Urquhart
+	holding = none
+	culture = gaelic
+	religion = gaelic_pagan
+	#Castle built in the XIIIth century
+}
+10101 = {	#Applecross
+	holding = none
+	culture = gaelic
+	religion = gaelic_pagan
+	#Castle built in the XIIIth century
+}
+10102 = {	#Glenelg
+	holding = none
+	culture = gaelic
+	religion = gaelic_pagan
+	#Castle built in the XIIIth century
+}
+10103 = {	#Urquhart
+	holding = none
+	culture = gaelic
+	religion = gaelic_pagan
+	#Castle built in the XIIIth century
+}
 8776 = {	#Glenelg
 	holding = none
 	culture = gaelic
